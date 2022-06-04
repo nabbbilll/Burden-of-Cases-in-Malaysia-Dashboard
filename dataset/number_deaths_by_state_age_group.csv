@@ -1,0 +1,3601 @@
+﻿sex,age_group,year,state,number_of_death
+Male,Under 1 year,2013,Penang,78
+Male,1-4,2013,Penang,14
+Male,5-9,2013,Penang,16
+Male,10-14,2013,Penang,23
+Male,15-19,2013,Penang,69
+Male,20-24,2013,Penang,74
+Male,25-29,2013,Penang,71
+Male,30-34,2013,Penang,90
+Male,35-39,2013,Penang,126
+Male,40-44,2013,Penang,196
+Male,45-49,2013,Penang,290
+Male,50-54,2013,Penang,402
+Male,55-59,2013,Penang,519
+Male,60-64,2013,Penang,607
+Male,65-69,2013,Penang,630
+Male,70-74,2013,Penang,662
+Male,75-79,2013,Penang,640
+Male,80-84,2013,Penang,447
+Male,85 +,2013,Penang,425
+Female,Under 1 year,2013,Penang,52
+Female,1-4,2013,Penang,13
+Female,5-9,2013,Penang,12
+Female,10-14,2013,Penang,9
+Female,15-19,2013,Penang,16
+Female,20-24,2013,Penang,28
+Female,25-29,2013,Penang,32
+Female,30-34,2013,Penang,36
+Female,35-39,2013,Penang,53
+Female,40-44,2013,Penang,68
+Female,45-49,2013,Penang,115
+Female,50-54,2013,Penang,187
+Female,55-59,2013,Penang,251
+Female,60-64,2013,Penang,326
+Female,65-69,2013,Penang,404
+Female,70-74,2013,Penang,485
+Female,75-79,2013,Penang,655
+Female,80-84,2013,Penang,557
+Female,85 +,2013,Penang,860
+Male,Under 1 year,2013,Johor,193
+Male,Under 1 year,2013,Kedah,131
+Male,Under 1 year,2013,Kelantan,164
+Male,Under 1 year,2013,Melaka,48
+Male,Under 1 year,2013,Negeri Sembilan,68
+Male,Under 1 year,2014,Penang,65
+Male,Under 1 year,2013,Pahang,147
+Male,Under 1 year,2013,Perak,137
+Male,Under 1 year,2013,Perlis,22
+Male,Under 1 year,2013,Sabah,0
+Male,Under 1 year,2013,Sarawak,135
+Male,Under 1 year,2013,Selangor,349
+Male,Under 1 year,2013,Terengganu,138
+Male,Under 1 year,2013,W.P. Kuala Lumpur,76
+Male,1-4,2014,Penang,17
+Male,Under 1 year,2013,W.P. Putrajaya,21
+Male,1-4,2013,Johor,45
+Male,1-4,2013,Kedah,34
+Male,1-4,2013,Kelantan,34
+Male,1-4,2013,Melaka,9
+Male,1-4,2013,Negeri Sembilan,16
+Male,5-9,2014,Penang,15
+Male,1-4,2013,Pahang,35
+Male,1-4,2013,Perak,48
+Male,1-4,2013,Perlis,2
+Male,1-4,2013,Sabah,0
+Male,1-4,2013,Sarawak,48
+Male,1-4,2013,Selangor,68
+Male,1-4,2013,Terengganu,20
+Male,1-4,2013,W.P. Kuala Lumpur,12
+Male,10-14,2014,Penang,23
+Male,1-4,2013,W.P. Putrajaya,1
+Male,5-9,2013,Johor,33
+Male,5-9,2013,Kedah,25
+Male,5-9,2013,Kelantan,26
+Male,5-9,2013,Melaka,3
+Male,5-9,2013,Negeri Sembilan,8
+Male,15-19,2014,Penang,72
+Male,5-9,2013,Pahang,22
+Male,5-9,2013,Perak,25
+Male,5-9,2013,Perlis,4
+Male,5-9,2013,Sabah,0
+Male,5-9,2013,Sarawak,33
+Male,5-9,2013,Selangor,44
+Male,5-9,2013,Terengganu,32
+Male,5-9,2013,W.P. Kuala Lumpur,12
+Male,20-24,2014,Penang,70
+Male,5-9,2013,W.P. Putrajaya,1
+Male,10-14,2013,Johor,59
+Male,10-14,2013,Kedah,36
+Male,10-14,2013,Kelantan,47
+Male,10-14,2013,Melaka,13
+Male,10-14,2013,Negeri Sembilan,15
+Male,25-29,2014,Penang,79
+Male,10-14,2013,Pahang,28
+Male,10-14,2013,Perak,41
+Male,10-14,2013,Perlis,9
+Male,10-14,2013,Sabah,0
+Male,10-14,2013,Sarawak,36
+Male,10-14,2013,Selangor,75
+Male,10-14,2013,Terengganu,41
+Male,10-14,2013,W.P. Kuala Lumpur,11
+Male,30-34,2014,Penang,98
+Male,10-14,2013,W.P. Putrajaya,1
+Male,15-19,2013,Johor,233
+Male,15-19,2013,Kedah,138
+Male,15-19,2013,Kelantan,117
+Male,15-19,2013,Melaka,49
+Male,15-19,2013,Negeri Sembilan,70
+Male,35-39,2014,Penang,134
+Male,15-19,2013,Pahang,134
+Male,15-19,2013,Perak,146
+Male,15-19,2013,Perlis,16
+Male,15-19,2013,Sabah,0
+Male,15-19,2013,Sarawak,110
+Male,15-19,2013,Selangor,216
+Male,15-19,2013,Terengganu,97
+Male,15-19,2013,W.P. Kuala Lumpur,26
+Male,40-44,2014,Penang,200
+Male,15-19,2013,W.P. Putrajaya,4
+Male,20-24,2013,Johor,260
+Male,20-24,2013,Kedah,136
+Male,20-24,2013,Kelantan,151
+Male,20-24,2013,Melaka,53
+Male,20-24,2013,Negeri Sembilan,90
+Male,45-49,2014,Penang,274
+Male,20-24,2013,Pahang,102
+Male,20-24,2013,Perak,150
+Male,20-24,2013,Perlis,19
+Male,20-24,2013,Sabah,0
+Male,20-24,2013,Sarawak,138
+Male,20-24,2013,Selangor,282
+Male,20-24,2013,Terengganu,95
+Male,20-24,2013,W.P. Kuala Lumpur,63
+Male,50-54,2014,Penang,398
+Male,20-24,2013,W.P. Putrajaya,2
+Male,25-29,2013,Johor,221
+Male,25-29,2013,Kedah,120
+Male,25-29,2013,Kelantan,112
+Male,25-29,2013,Melaka,56
+Male,25-29,2013,Negeri Sembilan,93
+Male,55-59,2014,Penang,491
+Male,25-29,2013,Pahang,137
+Male,25-29,2013,Perak,162
+Male,25-29,2013,Perlis,13
+Male,25-29,2013,Sabah,0
+Male,25-29,2013,Sarawak,139
+Male,25-29,2013,Selangor,271
+Male,25-29,2013,Terengganu,99
+Male,25-29,2013,W.P. Kuala Lumpur,89
+Male,60-64,2014,Penang,619
+Male,25-29,2013,W.P. Putrajaya,6
+Male,30-34,2013,Johor,296
+Male,30-34,2013,Kedah,158
+Male,30-34,2013,Kelantan,160
+Male,30-34,2013,Melaka,65
+Male,30-34,2013,Negeri Sembilan,96
+Male,65-69,2014,Penang,640
+Male,30-34,2013,Pahang,180
+Male,30-34,2013,Perak,196
+Male,30-34,2013,Perlis,20
+Male,30-34,2013,Sabah,0
+Male,30-34,2013,Sarawak,159
+Male,30-34,2013,Selangor,320
+Male,30-34,2013,Terengganu,112
+Male,30-34,2013,W.P. Kuala Lumpur,104
+Male,70-74,2014,Penang,645
+Male,30-34,2013,W.P. Putrajaya,4
+Male,35-39,2013,Johor,342
+Male,35-39,2013,Kedah,171
+Male,35-39,2013,Kelantan,170
+Male,35-39,2013,Melaka,80
+Male,35-39,2013,Negeri Sembilan,127
+Male,75-79,2014,Penang,702
+Male,35-39,2013,Pahang,182
+Male,35-39,2013,Perak,237
+Male,35-39,2013,Perlis,24
+Male,35-39,2013,Sabah,0
+Male,35-39,2013,Sarawak,200
+Male,35-39,2013,Selangor,386
+Male,35-39,2013,Terengganu,146
+Male,35-39,2013,W.P. Kuala Lumpur,121
+Male,80-84,2014,Penang,478
+Male,35-39,2013,W.P. Putrajaya,5
+Male,40-44,2013,Johor,431
+Male,40-44,2013,Kedah,232
+Male,40-44,2013,Kelantan,212
+Male,40-44,2013,Melaka,88
+Male,40-44,2013,Negeri Sembilan,128
+Male,85 +,2014,Penang,452
+Male,40-44,2013,Pahang,223
+Male,40-44,2013,Perak,326
+Male,40-44,2013,Perlis,27
+Male,40-44,2013,Sabah,0
+Male,40-44,2013,Sarawak,254
+Male,40-44,2013,Selangor,573
+Male,40-44,2013,Terengganu,174
+Male,40-44,2013,W.P. Kuala Lumpur,191
+Female,Under 1 year,2014,Penang,63
+Male,40-44,2013,W.P. Putrajaya,5
+Male,45-49,2013,Johor,574
+Male,45-49,2013,Kedah,390
+Male,45-49,2013,Kelantan,253
+Male,45-49,2013,Melaka,145
+Male,45-49,2013,Negeri Sembilan,198
+Female,1-4,2014,Penang,15
+Male,45-49,2013,Pahang,265
+Male,45-49,2013,Perak,469
+Male,45-49,2013,Perlis,36
+Male,45-49,2013,Sabah,0
+Male,45-49,2013,Sarawak,355
+Male,45-49,2013,Selangor,734
+Male,45-49,2013,Terengganu,177
+Male,45-49,2013,W.P. Kuala Lumpur,249
+Female,5-9,2014,Penang,7
+Male,45-49,2013,W.P. Putrajaya,4
+Male,50-54,2013,Johor,789
+Male,50-54,2013,Kedah,491
+Male,50-54,2013,Kelantan,360
+Male,50-54,2013,Melaka,211
+Male,50-54,2013,Negeri Sembilan,281
+Female,10-14,2014,Penang,3
+Male,50-54,2013,Pahang,352
+Male,50-54,2013,Perak,643
+Male,50-54,2013,Perlis,68
+Male,50-54,2013,Sabah,0
+Male,50-54,2013,Sarawak,449
+Male,50-54,2013,Selangor,1050
+Male,50-54,2013,Terengganu,260
+Male,50-54,2013,W.P. Kuala Lumpur,351
+Female,15-19,2014,Penang,23
+Male,50-54,2013,W.P. Putrajaya,8
+Male,55-59,2013,Johor,1009
+Male,55-59,2013,Kedah,625
+Male,55-59,2013,Kelantan,451
+Male,55-59,2013,Melaka,258
+Male,55-59,2013,Negeri Sembilan,365
+Female,20-24,2014,Penang,26
+Male,55-59,2013,Pahang,414
+Male,55-59,2013,Perak,839
+Male,55-59,2013,Perlis,70
+Male,55-59,2013,Sabah,0
+Male,55-59,2013,Sarawak,491
+Male,55-59,2013,Selangor,1278
+Male,55-59,2013,Terengganu,324
+Male,55-59,2013,W.P. Kuala Lumpur,396
+Female,25-29,2014,Penang,14
+Male,55-59,2013,W.P. Putrajaya,11
+Male,60-64,2013,Johor,1115
+Male,60-64,2013,Kedah,763
+Male,60-64,2013,Kelantan,565
+Male,60-64,2013,Melaka,268
+Male,60-64,2013,Negeri Sembilan,381
+Female,30-34,2014,Penang,35
+Male,60-64,2013,Pahang,543
+Male,60-64,2013,Perak,979
+Male,60-64,2013,Perlis,87
+Male,60-64,2013,Sabah,0
+Male,60-64,2013,Sarawak,560
+Male,60-64,2013,Selangor,1334
+Male,60-64,2013,Terengganu,323
+Male,60-64,2013,W.P. Kuala Lumpur,451
+Female,35-39,2014,Penang,47
+Male,60-64,2013,W.P. Putrajaya,5
+Male,65-69,2013,Johor,1070
+Male,65-69,2013,Kedah,750
+Male,65-69,2013,Kelantan,690
+Male,65-69,2013,Melaka,290
+Male,65-69,2013,Negeri Sembilan,366
+Female,40-44,2014,Penang,75
+Male,65-69,2013,Pahang,570
+Male,65-69,2013,Perak,993
+Male,65-69,2013,Perlis,111
+Male,65-69,2013,Sabah,0
+Male,65-69,2013,Sarawak,724
+Male,65-69,2013,Selangor,1330
+Male,65-69,2013,Terengganu,420
+Male,65-69,2013,W.P. Kuala Lumpur,428
+Female,45-49,2014,Penang,136
+Male,65-69,2013,W.P. Putrajaya,3
+Male,70-74,2013,Johor,1126
+Male,70-74,2013,Kedah,845
+Male,70-74,2013,Kelantan,532
+Male,70-74,2013,Melaka,296
+Male,70-74,2013,Negeri Sembilan,372
+Female,50-54,2014,Penang,184
+Male,70-74,2013,Pahang,529
+Male,70-74,2013,Perak,1177
+Male,70-74,2013,Perlis,136
+Male,70-74,2013,Sabah,0
+Male,70-74,2013,Sarawak,743
+Male,70-74,2013,Selangor,1363
+Male,70-74,2013,Terengganu,397
+Male,70-74,2013,W.P. Kuala Lumpur,447
+Female,55-59,2014,Penang,309
+Male,70-74,2013,W.P. Putrajaya,5
+Male,75-79,2013,Johor,1162
+Male,75-79,2013,Kedah,922
+Male,75-79,2013,Kelantan,689
+Male,75-79,2013,Melaka,324
+Male,75-79,2013,Negeri Sembilan,429
+Female,60-64,2014,Penang,379
+Male,75-79,2013,Pahang,547
+Male,75-79,2013,Perak,1184
+Male,75-79,2013,Perlis,113
+Male,75-79,2013,Sabah,0
+Male,75-79,2013,Sarawak,673
+Male,75-79,2013,Selangor,1316
+Male,75-79,2013,Terengganu,414
+Male,75-79,2013,W.P. Kuala Lumpur,431
+Female,65-69,2014,Penang,416
+Male,75-79,2013,W.P. Putrajaya,4
+Male,80-84,2013,Johor,708
+Male,80-84,2013,Kedah,623
+Male,80-84,2013,Kelantan,426
+Male,80-84,2013,Melaka,213
+Male,80-84,2013,Negeri Sembilan,273
+Female,70-74,2014,Penang,494
+Male,80-84,2013,Pahang,299
+Male,80-84,2013,Perak,799
+Male,80-84,2013,Perlis,80
+Male,80-84,2013,Sabah,0
+Male,80-84,2013,Sarawak,582
+Male,80-84,2013,Selangor,838
+Male,80-84,2013,Terengganu,255
+Male,80-84,2013,W.P. Kuala Lumpur,351
+Female,75-79,2014,Penang,610
+Male,80-84,2013,W.P. Putrajaya,2
+Male,85 +,2013,Johor,695
+Male,85 +,2013,Kedah,506
+Male,85 +,2013,Kelantan,476
+Male,85 +,2013,Melaka,200
+Male,85 +,2013,Negeri Sembilan,253
+Female,80-84,2014,Penang,576
+Male,85 +,2013,Pahang,253
+Male,85 +,2013,Perak,743
+Male,85 +,2013,Perlis,91
+Male,85 +,2013,Sabah,0
+Male,85 +,2013,Sarawak,598
+Male,85 +,2013,Selangor,784
+Male,85 +,2013,Terengganu,215
+Male,85 +,2013,W.P. Kuala Lumpur,308
+Female,85 +,2014,Penang,794
+Male,85 +,2013,W.P. Putrajaya,1
+Female,Under 1 year,2013,Johor,171
+Female,Under 1 year,2013,Kedah,102
+Female,Under 1 year,2013,Kelantan,105
+Female,Under 1 year,2013,Melaka,42
+Female,Under 1 year,2013,Negeri Sembilan,61
+Male,Under 1 year,2015,Penang,77
+Female,Under 1 year,2013,Pahang,106
+Female,Under 1 year,2013,Perak,100
+Female,Under 1 year,2013,Perlis,14
+Female,Under 1 year,2013,Sabah,0
+Female,Under 1 year,2013,Sarawak,95
+Female,Under 1 year,2013,Selangor,275
+Female,Under 1 year,2013,Terengganu,93
+Female,Under 1 year,2013,W.P. Kuala Lumpur,47
+Male,1-4,2015,Penang,13
+Female,Under 1 year,2013,W.P. Putrajaya,10
+Female,1-4,2013,Johor,33
+Female,1-4,2013,Kedah,25
+Female,1-4,2013,Kelantan,35
+Female,1-4,2013,Melaka,8
+Female,1-4,2013,Negeri Sembilan,12
+Male,5-9,2015,Penang,8
+Female,1-4,2013,Pahang,22
+Female,1-4,2013,Perak,35
+Female,1-4,2013,Perlis,3
+Female,1-4,2013,Sabah,0
+Female,1-4,2013,Sarawak,26
+Female,1-4,2013,Selangor,73
+Female,1-4,2013,Terengganu,29
+Female,1-4,2013,W.P. Kuala Lumpur,18
+Male,10-14,2015,Penang,19
+Female,1-4,2013,W.P. Putrajaya,1
+Female,5-9,2013,Johor,20
+Female,5-9,2013,Kedah,19
+Female,5-9,2013,Kelantan,22
+Female,5-9,2013,Melaka,8
+Female,5-9,2013,Negeri Sembilan,5
+Male,15-19,2015,Penang,73
+Female,5-9,2013,Pahang,11
+Female,5-9,2013,Perak,21
+Female,5-9,2013,Perlis,4
+Female,5-9,2013,Sabah,0
+Female,5-9,2013,Sarawak,25
+Female,5-9,2013,Selangor,40
+Female,5-9,2013,Terengganu,9
+Female,5-9,2013,W.P. Kuala Lumpur,5
+Male,20-24,2015,Penang,80
+Female,5-9,2013,W.P. Putrajaya,0
+Female,10-14,2013,Johor,28
+Female,10-14,2013,Kedah,41
+Female,10-14,2013,Kelantan,18
+Female,10-14,2013,Melaka,9
+Female,10-14,2013,Negeri Sembilan,11
+Male,25-29,2015,Penang,60
+Female,10-14,2013,Pahang,20
+Female,10-14,2013,Perak,16
+Female,10-14,2013,Perlis,3
+Female,10-14,2013,Sabah,0
+Female,10-14,2013,Sarawak,26
+Female,10-14,2013,Selangor,35
+Female,10-14,2013,Terengganu,17
+Female,10-14,2013,W.P. Kuala Lumpur,8
+Male,30-34,2015,Penang,98
+Female,10-14,2013,W.P. Putrajaya,0
+Female,15-19,2013,Johor,63
+Female,15-19,2013,Kedah,54
+Female,15-19,2013,Kelantan,36
+Female,15-19,2013,Melaka,20
+Female,15-19,2013,Negeri Sembilan,15
+Male,35-39,2015,Penang,116
+Female,15-19,2013,Pahang,22
+Female,15-19,2013,Perak,47
+Female,15-19,2013,Perlis,2
+Female,15-19,2013,Sabah,0
+Female,15-19,2013,Sarawak,31
+Female,15-19,2013,Selangor,56
+Female,15-19,2013,Terengganu,18
+Female,15-19,2013,W.P. Kuala Lumpur,17
+Male,40-44,2015,Penang,175
+Female,15-19,2013,W.P. Putrajaya,0
+Female,20-24,2013,Johor,68
+Female,20-24,2013,Kedah,51
+Female,20-24,2013,Kelantan,45
+Female,20-24,2013,Melaka,17
+Female,20-24,2013,Negeri Sembilan,20
+Male,45-49,2015,Penang,295
+Female,20-24,2013,Pahang,28
+Female,20-24,2013,Perak,51
+Female,20-24,2013,Perlis,8
+Female,20-24,2013,Sabah,0
+Female,20-24,2013,Sarawak,37
+Female,20-24,2013,Selangor,95
+Female,20-24,2013,Terengganu,30
+Female,20-24,2013,W.P. Kuala Lumpur,26
+Male,50-54,2015,Penang,401
+Female,20-24,2013,W.P. Putrajaya,1
+Female,25-29,2013,Johor,101
+Female,25-29,2013,Kedah,59
+Female,25-29,2013,Kelantan,54
+Female,25-29,2013,Melaka,20
+Female,25-29,2013,Negeri Sembilan,33
+Male,55-59,2015,Penang,598
+Female,25-29,2013,Pahang,37
+Female,25-29,2013,Perak,64
+Female,25-29,2013,Perlis,6
+Female,25-29,2013,Sabah,0
+Female,25-29,2013,Sarawak,47
+Female,25-29,2013,Selangor,95
+Female,25-29,2013,Terengganu,28
+Female,25-29,2013,W.P. Kuala Lumpur,24
+Male,60-64,2015,Penang,671
+Female,25-29,2013,W.P. Putrajaya,1
+Female,30-34,2013,Johor,88
+Female,30-34,2013,Kedah,50
+Female,30-34,2013,Kelantan,58
+Female,30-34,2013,Melaka,27
+Female,30-34,2013,Negeri Sembilan,26
+Male,65-69,2015,Penang,699
+Female,30-34,2013,Pahang,50
+Female,30-34,2013,Perak,63
+Female,30-34,2013,Perlis,8
+Female,30-34,2013,Sabah,0
+Female,30-34,2013,Sarawak,53
+Female,30-34,2013,Selangor,121
+Female,30-34,2013,Terengganu,42
+Female,30-34,2013,W.P. Kuala Lumpur,36
+Male,70-74,2015,Penang,665
+Female,30-34,2013,W.P. Putrajaya,4
+Female,35-39,2013,Johor,144
+Female,35-39,2013,Kedah,81
+Female,35-39,2013,Kelantan,70
+Female,35-39,2013,Melaka,38
+Female,35-39,2013,Negeri Sembilan,56
+Male,75-79,2015,Penang,722
+Female,35-39,2013,Pahang,62
+Female,35-39,2013,Perak,73
+Female,35-39,2013,Perlis,9
+Female,35-39,2013,Sabah,0
+Female,35-39,2013,Sarawak,83
+Female,35-39,2013,Selangor,182
+Female,35-39,2013,Terengganu,45
+Female,35-39,2013,W.P. Kuala Lumpur,48
+Male,80-84,2015,Penang,519
+Female,35-39,2013,W.P. Putrajaya,3
+Female,40-44,2013,Johor,188
+Female,40-44,2013,Kedah,108
+Female,40-44,2013,Kelantan,106
+Female,40-44,2013,Melaka,51
+Female,40-44,2013,Negeri Sembilan,67
+Male,85 +,2015,Penang,494
+Female,40-44,2013,Pahang,104
+Female,40-44,2013,Perak,146
+Female,40-44,2013,Perlis,10
+Female,40-44,2013,Sabah,0
+Female,40-44,2013,Sarawak,142
+Female,40-44,2013,Selangor,231
+Female,40-44,2013,Terengganu,70
+Female,40-44,2013,W.P. Kuala Lumpur,63
+Female,Under 1 year,2015,Penang,63
+Female,40-44,2013,W.P. Putrajaya,0
+Female,45-49,2013,Johor,327
+Female,45-49,2013,Kedah,213
+Female,45-49,2013,Kelantan,152
+Female,45-49,2013,Melaka,56
+Female,45-49,2013,Negeri Sembilan,78
+Female,1-4,2015,Penang,13
+Female,45-49,2013,Pahang,122
+Female,45-49,2013,Perak,217
+Female,45-49,2013,Perlis,24
+Female,45-49,2013,Sabah,0
+Female,45-49,2013,Sarawak,185
+Female,45-49,2013,Selangor,350
+Female,45-49,2013,Terengganu,90
+Female,45-49,2013,W.P. Kuala Lumpur,123
+Female,5-9,2015,Penang,4
+Female,45-49,2013,W.P. Putrajaya,2
+Female,50-54,2013,Johor,425
+Female,50-54,2013,Kedah,269
+Female,50-54,2013,Kelantan,230
+Female,50-54,2013,Melaka,113
+Female,50-54,2013,Negeri Sembilan,154
+Female,10-14,2015,Penang,10
+Female,50-54,2013,Pahang,200
+Female,50-54,2013,Perak,336
+Female,50-54,2013,Perlis,41
+Female,50-54,2013,Sabah,0
+Female,50-54,2013,Sarawak,247
+Female,50-54,2013,Selangor,509
+Female,50-54,2013,Terengganu,141
+Female,50-54,2013,W.P. Kuala Lumpur,183
+Female,15-19,2015,Penang,22
+Female,50-54,2013,W.P. Putrajaya,8
+Female,55-59,2013,Johor,514
+Female,55-59,2013,Kedah,355
+Female,55-59,2013,Kelantan,282
+Female,55-59,2013,Melaka,164
+Female,55-59,2013,Negeri Sembilan,202
+Female,20-24,2015,Penang,23
+Female,55-59,2013,Pahang,259
+Female,55-59,2013,Perak,440
+Female,55-59,2013,Perlis,46
+Female,55-59,2013,Sabah,0
+Female,55-59,2013,Sarawak,309
+Female,55-59,2013,Selangor,675
+Female,55-59,2013,Terengganu,189
+Female,55-59,2013,W.P. Kuala Lumpur,229
+Female,25-29,2015,Penang,28
+Female,55-59,2013,W.P. Putrajaya,3
+Female,60-64,2013,Johor,696
+Female,60-64,2013,Kedah,453
+Female,60-64,2013,Kelantan,325
+Female,60-64,2013,Melaka,170
+Female,60-64,2013,Negeri Sembilan,237
+Female,30-34,2015,Penang,45
+Female,60-64,2013,Pahang,306
+Female,60-64,2013,Perak,589
+Female,60-64,2013,Perlis,65
+Female,60-64,2013,Sabah,0
+Female,60-64,2013,Sarawak,367
+Female,60-64,2013,Selangor,778
+Female,60-64,2013,Terengganu,184
+Female,60-64,2013,W.P. Kuala Lumpur,242
+Female,35-39,2015,Penang,55
+Female,60-64,2013,W.P. Putrajaya,8
+Female,65-69,2013,Johor,651
+Female,65-69,2013,Kedah,456
+Female,65-69,2013,Kelantan,438
+Female,65-69,2013,Melaka,184
+Female,65-69,2013,Negeri Sembilan,205
+Female,40-44,2015,Penang,95
+Female,65-69,2013,Pahang,328
+Female,65-69,2013,Perak,671
+Female,65-69,2013,Perlis,76
+Female,65-69,2013,Sabah,0
+Female,65-69,2013,Sarawak,456
+Female,65-69,2013,Selangor,893
+Female,65-69,2013,Terengganu,274
+Female,65-69,2013,W.P. Kuala Lumpur,314
+Female,45-49,2015,Penang,150
+Female,65-69,2013,W.P. Putrajaya,3
+Female,70-74,2013,Johor,766
+Female,70-74,2013,Kedah,641
+Female,70-74,2013,Kelantan,513
+Female,70-74,2013,Melaka,236
+Female,70-74,2013,Negeri Sembilan,254
+Female,50-54,2015,Penang,195
+Female,70-74,2013,Pahang,380
+Female,70-74,2013,Perak,859
+Female,70-74,2013,Perlis,100
+Female,70-74,2013,Sabah,0
+Female,70-74,2013,Sarawak,560
+Female,70-74,2013,Selangor,1038
+Female,70-74,2013,Terengganu,348
+Female,70-74,2013,W.P. Kuala Lumpur,347
+Female,55-59,2015,Penang,289
+Female,70-74,2013,W.P. Putrajaya,8
+Female,75-79,2013,Johor,985
+Female,75-79,2013,Kedah,866
+Female,75-79,2013,Kelantan,623
+Female,75-79,2013,Melaka,295
+Female,75-79,2013,Negeri Sembilan,403
+Female,60-64,2015,Penang,376
+Female,75-79,2013,Pahang,428
+Female,75-79,2013,Perak,1069
+Female,75-79,2013,Perlis,120
+Female,75-79,2013,Sabah,0
+Female,75-79,2013,Sarawak,624
+Female,75-79,2013,Selangor,1262
+Female,75-79,2013,Terengganu,400
+Female,75-79,2013,W.P. Kuala Lumpur,385
+Female,65-69,2015,Penang,499
+Female,75-79,2013,W.P. Putrajaya,7
+Female,80-84,2013,Johor,869
+Female,80-84,2013,Kedah,767
+Female,80-84,2013,Kelantan,636
+Female,80-84,2013,Melaka,294
+Female,80-84,2013,Negeri Sembilan,343
+Female,70-74,2015,Penang,519
+Female,80-84,2013,Pahang,308
+Female,80-84,2013,Perak,1035
+Female,80-84,2013,Perlis,101
+Female,80-84,2013,Sabah,0
+Female,80-84,2013,Sarawak,711
+Female,80-84,2013,Selangor,1072
+Female,80-84,2013,Terengganu,309
+Female,80-84,2013,W.P. Kuala Lumpur,424
+Female,75-79,2015,Penang,613
+Female,80-84,2013,W.P. Putrajaya,8
+Female,85 +,2013,Johor,1198
+Female,85 +,2013,Kedah,810
+Female,85 +,2013,Kelantan,659
+Female,85 +,2013,Melaka,326
+Female,85 +,2013,Negeri Sembilan,402
+Female,80-84,2015,Penang,568
+Female,85 +,2013,Pahang,391
+Female,85 +,2013,Perak,1260
+Female,85 +,2013,Perlis,153
+Female,85 +,2013,Sabah,0
+Female,85 +,2013,Sarawak,780
+Female,85 +,2013,Selangor,1286
+Female,85 +,2013,Terengganu,369
+Female,85 +,2013,W.P. Kuala Lumpur,527
+Female,85 +,2015,Penang,876
+Female,85 +,2013,W.P. Putrajaya,4
+Male,Under 1 year,2014,Johor,213
+Male,Under 1 year,2014,Kedah,137
+Male,Under 1 year,2014,Kelantan,178
+Male,Under 1 year,2014,Melaka,51
+Male,Under 1 year,2014,Negeri Sembilan,74
+Male,Under 1 year,2016,Penang,72
+Male,Under 1 year,2014,Pahang,129
+Male,Under 1 year,2014,Perak,134
+Male,Under 1 year,2014,Perlis,26
+Male,Under 1 year,2014,Sabah,295
+Male,Under 1 year,2014,Sarawak,140
+Male,Under 1 year,2014,Selangor,313
+Male,Under 1 year,2014,Terengganu,118
+Male,Under 1 year,2014,W.P. Kuala Lumpur,92
+Male,1-4,2016,Penang,18
+Male,Under 1 year,2014,W.P. Putrajaya,18
+Male,1-4,2014,Johor,32
+Male,1-4,2014,Kedah,27
+Male,1-4,2014,Kelantan,47
+Male,1-4,2014,Melaka,16
+Male,1-4,2014,Negeri Sembilan,10
+Male,5-9,2016,Penang,11
+Male,1-4,2014,Pahang,33
+Male,1-4,2014,Perak,29
+Male,1-4,2014,Perlis,1
+Male,1-4,2014,Sabah,78
+Male,1-4,2014,Sarawak,36
+Male,1-4,2014,Selangor,78
+Male,1-4,2014,Terengganu,25
+Male,1-4,2014,W.P. Kuala Lumpur,15
+Male,10-14,2016,Penang,15
+Male,1-4,2014,W.P. Putrajaya,5
+Male,5-9,2014,Johor,23
+Male,5-9,2014,Kedah,30
+Male,5-9,2014,Kelantan,40
+Male,5-9,2014,Melaka,15
+Male,5-9,2014,Negeri Sembilan,8
+Male,15-19,2016,Penang,75
+Male,5-9,2014,Pahang,20
+Male,5-9,2014,Perak,27
+Male,5-9,2014,Perlis,0
+Male,5-9,2014,Sabah,49
+Male,5-9,2014,Sarawak,34
+Male,5-9,2014,Selangor,43
+Male,5-9,2014,Terengganu,16
+Male,5-9,2014,W.P. Kuala Lumpur,10
+Male,20-24,2016,Penang,95
+Male,5-9,2014,W.P. Putrajaya,1
+Male,10-14,2014,Johor,75
+Male,10-14,2014,Kedah,40
+Male,10-14,2014,Kelantan,48
+Male,10-14,2014,Melaka,7
+Male,10-14,2014,Negeri Sembilan,15
+Male,25-29,2016,Penang,84
+Male,10-14,2014,Pahang,40
+Male,10-14,2014,Perak,41
+Male,10-14,2014,Perlis,8
+Male,10-14,2014,Sabah,55
+Male,10-14,2014,Sarawak,42
+Male,10-14,2014,Selangor,82
+Male,10-14,2014,Terengganu,21
+Male,10-14,2014,W.P. Kuala Lumpur,11
+Male,30-34,2016,Penang,121
+Male,10-14,2014,W.P. Putrajaya,0
+Male,15-19,2014,Johor,199
+Male,15-19,2014,Kedah,147
+Male,15-19,2014,Kelantan,127
+Male,15-19,2014,Melaka,49
+Male,15-19,2014,Negeri Sembilan,76
+Male,35-39,2016,Penang,152
+Male,15-19,2014,Pahang,109
+Male,15-19,2014,Perak,158
+Male,15-19,2014,Perlis,14
+Male,15-19,2014,Sabah,100
+Male,15-19,2014,Sarawak,93
+Male,15-19,2014,Selangor,236
+Male,15-19,2014,Terengganu,63
+Male,15-19,2014,W.P. Kuala Lumpur,46
+Male,40-44,2016,Penang,208
+Male,15-19,2014,W.P. Putrajaya,1
+Male,20-24,2014,Johor,227
+Male,20-24,2014,Kedah,139
+Male,20-24,2014,Kelantan,130
+Male,20-24,2014,Melaka,71
+Male,20-24,2014,Negeri Sembilan,90
+Male,45-49,2016,Penang,285
+Male,20-24,2014,Pahang,119
+Male,20-24,2014,Perak,150
+Male,20-24,2014,Perlis,13
+Male,20-24,2014,Sabah,134
+Male,20-24,2014,Sarawak,141
+Male,20-24,2014,Selangor,264
+Male,20-24,2014,Terengganu,94
+Male,20-24,2014,W.P. Kuala Lumpur,75
+Male,50-54,2016,Penang,419
+Male,20-24,2014,W.P. Putrajaya,0
+Male,25-29,2014,Johor,201
+Male,25-29,2014,Kedah,133
+Male,25-29,2014,Kelantan,91
+Male,25-29,2014,Melaka,43
+Male,25-29,2014,Negeri Sembilan,84
+Male,55-59,2016,Penang,582
+Male,25-29,2014,Pahang,98
+Male,25-29,2014,Perak,154
+Male,25-29,2014,Perlis,17
+Male,25-29,2014,Sabah,193
+Male,25-29,2014,Sarawak,150
+Male,25-29,2014,Selangor,279
+Male,25-29,2014,Terengganu,81
+Male,25-29,2014,W.P. Kuala Lumpur,87
+Male,60-64,2016,Penang,743
+Male,25-29,2014,W.P. Putrajaya,0
+Male,30-34,2014,Johor,270
+Male,30-34,2014,Kedah,161
+Male,30-34,2014,Kelantan,158
+Male,30-34,2014,Melaka,60
+Male,30-34,2014,Negeri Sembilan,105
+Male,65-69,2016,Penang,760
+Male,30-34,2014,Pahang,153
+Male,30-34,2014,Perak,190
+Male,30-34,2014,Perlis,19
+Male,30-34,2014,Sabah,217
+Male,30-34,2014,Sarawak,142
+Male,30-34,2014,Selangor,324
+Male,30-34,2014,Terengganu,124
+Male,30-34,2014,W.P. Kuala Lumpur,110
+Male,70-74,2016,Penang,749
+Male,30-34,2014,W.P. Putrajaya,5
+Male,35-39,2014,Johor,321
+Male,35-39,2014,Kedah,188
+Male,35-39,2014,Kelantan,203
+Male,35-39,2014,Melaka,62
+Male,35-39,2014,Negeri Sembilan,112
+Male,75-79,2016,Penang,705
+Male,35-39,2014,Pahang,196
+Male,35-39,2014,Perak,232
+Male,35-39,2014,Perlis,18
+Male,35-39,2014,Sabah,233
+Male,35-39,2014,Sarawak,191
+Male,35-39,2014,Selangor,423
+Male,35-39,2014,Terengganu,139
+Male,35-39,2014,W.P. Kuala Lumpur,105
+Male,80-84,2016,Penang,586
+Male,35-39,2014,W.P. Putrajaya,0
+Male,40-44,2014,Johor,421
+Male,40-44,2014,Kedah,250
+Male,40-44,2014,Kelantan,246
+Male,40-44,2014,Melaka,90
+Male,40-44,2014,Negeri Sembilan,151
+Male,85 +,2016,Penang,483
+Male,40-44,2014,Pahang,235
+Male,40-44,2014,Perak,328
+Male,40-44,2014,Perlis,19
+Male,40-44,2014,Sabah,282
+Male,40-44,2014,Sarawak,265
+Male,40-44,2014,Selangor,544
+Male,40-44,2014,Terengganu,141
+Male,40-44,2014,W.P. Kuala Lumpur,159
+Female,Under 1 year,2016,Penang,69
+Male,40-44,2014,W.P. Putrajaya,4
+Male,45-49,2014,Johor,581
+Male,45-49,2014,Kedah,388
+Male,45-49,2014,Kelantan,287
+Male,45-49,2014,Melaka,137
+Male,45-49,2014,Negeri Sembilan,189
+Female,1-4,2016,Penang,15
+Male,45-49,2014,Pahang,249
+Male,45-49,2014,Perak,461
+Male,45-49,2014,Perlis,42
+Male,45-49,2014,Sabah,435
+Male,45-49,2014,Sarawak,357
+Male,45-49,2014,Selangor,806
+Male,45-49,2014,Terengganu,190
+Male,45-49,2014,W.P. Kuala Lumpur,229
+Female,5-9,2016,Penang,6
+Male,45-49,2014,W.P. Putrajaya,7
+Male,50-54,2014,Johor,776
+Male,50-54,2014,Kedah,545
+Male,50-54,2014,Kelantan,377
+Male,50-54,2014,Melaka,193
+Male,50-54,2014,Negeri Sembilan,263
+Female,10-14,2016,Penang,14
+Male,50-54,2014,Pahang,386
+Male,50-54,2014,Perak,623
+Male,50-54,2014,Perlis,61
+Male,50-54,2014,Sabah,577
+Male,50-54,2014,Sarawak,416
+Male,50-54,2014,Selangor,1081
+Male,50-54,2014,Terengganu,248
+Male,50-54,2014,W.P. Kuala Lumpur,343
+Female,15-19,2016,Penang,24
+Male,50-54,2014,W.P. Putrajaya,9
+Male,55-59,2014,Johor,1041
+Male,55-59,2014,Kedah,686
+Male,55-59,2014,Kelantan,472
+Male,55-59,2014,Melaka,276
+Male,55-59,2014,Negeri Sembilan,361
+Female,20-24,2016,Penang,27
+Male,55-59,2014,Pahang,464
+Male,55-59,2014,Perak,868
+Male,55-59,2014,Perlis,68
+Male,55-59,2014,Sabah,660
+Male,55-59,2014,Sarawak,514
+Male,55-59,2014,Selangor,1387
+Male,55-59,2014,Terengganu,320
+Male,55-59,2014,W.P. Kuala Lumpur,499
+Female,25-29,2016,Penang,33
+Male,55-59,2014,W.P. Putrajaya,9
+Male,60-64,2014,Johor,1177
+Male,60-64,2014,Kedah,796
+Male,60-64,2014,Kelantan,585
+Male,60-64,2014,Melaka,292
+Male,60-64,2014,Negeri Sembilan,404
+Female,30-34,2016,Penang,43
+Male,60-64,2014,Pahang,521
+Male,60-64,2014,Perak,977
+Male,60-64,2014,Perlis,101
+Male,60-64,2014,Sabah,593
+Male,60-64,2014,Sarawak,625
+Male,60-64,2014,Selangor,1354
+Male,60-64,2014,Terengganu,376
+Male,60-64,2014,W.P. Kuala Lumpur,495
+Female,35-39,2016,Penang,65
+Male,60-64,2014,W.P. Putrajaya,10
+Male,65-69,2014,Johor,1181
+Male,65-69,2014,Kedah,811
+Male,65-69,2014,Kelantan,692
+Male,65-69,2014,Melaka,309
+Male,65-69,2014,Negeri Sembilan,397
+Female,40-44,2016,Penang,81
+Male,65-69,2014,Pahang,633
+Male,65-69,2014,Perak,1146
+Male,65-69,2014,Perlis,102
+Male,65-69,2014,Sabah,691
+Male,65-69,2014,Sarawak,764
+Male,65-69,2014,Selangor,1495
+Male,65-69,2014,Terengganu,394
+Male,65-69,2014,W.P. Kuala Lumpur,555
+Female,45-49,2016,Penang,131
+Male,65-69,2014,W.P. Putrajaya,8
+Male,70-74,2014,Johor,1150
+Male,70-74,2014,Kedah,823
+Male,70-74,2014,Kelantan,634
+Male,70-74,2014,Melaka,320
+Male,70-74,2014,Negeri Sembilan,375
+Female,50-54,2016,Penang,200
+Male,70-74,2014,Pahang,567
+Male,70-74,2014,Perak,1131
+Male,70-74,2014,Perlis,126
+Male,70-74,2014,Sabah,837
+Male,70-74,2014,Sarawak,832
+Male,70-74,2014,Selangor,1293
+Male,70-74,2014,Terengganu,372
+Male,70-74,2014,W.P. Kuala Lumpur,492
+Female,55-59,2016,Penang,289
+Male,70-74,2014,W.P. Putrajaya,9
+Male,75-79,2014,Johor,1170
+Male,75-79,2014,Kedah,935
+Male,75-79,2014,Kelantan,693
+Male,75-79,2014,Melaka,308
+Male,75-79,2014,Negeri Sembilan,441
+Female,60-64,2016,Penang,374
+Male,75-79,2014,Pahang,594
+Male,75-79,2014,Perak,1219
+Male,75-79,2014,Perlis,115
+Male,75-79,2014,Sabah,794
+Male,75-79,2014,Sarawak,730
+Male,75-79,2014,Selangor,1394
+Male,75-79,2014,Terengganu,430
+Male,75-79,2014,W.P. Kuala Lumpur,503
+Female,65-69,2016,Penang,498
+Male,75-79,2014,W.P. Putrajaya,5
+Male,80-84,2014,Johor,729
+Male,80-84,2014,Kedah,612
+Male,80-84,2014,Kelantan,405
+Male,80-84,2014,Melaka,223
+Male,80-84,2014,Negeri Sembilan,294
+Female,70-74,2016,Penang,523
+Male,80-84,2014,Pahang,295
+Male,80-84,2014,Perak,802
+Male,80-84,2014,Perlis,69
+Male,80-84,2014,Sabah,558
+Male,80-84,2014,Sarawak,565
+Male,80-84,2014,Selangor,894
+Male,80-84,2014,Terengganu,203
+Male,80-84,2014,W.P. Kuala Lumpur,343
+Female,75-79,2016,Penang,595
+Male,80-84,2014,W.P. Putrajaya,6
+Male,85 +,2014,Johor,730
+Male,85 +,2014,Kedah,556
+Male,85 +,2014,Kelantan,545
+Male,85 +,2014,Melaka,197
+Male,85 +,2014,Negeri Sembilan,232
+Female,80-84,2016,Penang,650
+Male,85 +,2014,Pahang,251
+Male,85 +,2014,Perak,791
+Male,85 +,2014,Perlis,93
+Male,85 +,2014,Sabah,394
+Male,85 +,2014,Sarawak,661
+Male,85 +,2014,Selangor,782
+Male,85 +,2014,Terengganu,243
+Male,85 +,2014,W.P. Kuala Lumpur,339
+Female,85 +,2016,Penang,929
+Male,85 +,2014,W.P. Putrajaya,3
+Female,Under 1 year,2014,Johor,155
+Female,Under 1 year,2014,Kedah,93
+Female,Under 1 year,2014,Kelantan,141
+Female,Under 1 year,2014,Melaka,33
+Female,Under 1 year,2014,Negeri Sembilan,55
+Female,Under 1 year,2018,Penang,60
+Female,Under 1 year,2014,Pahang,84
+Female,Under 1 year,2014,Perak,93
+Female,Under 1 year,2014,Perlis,8
+Female,Under 1 year,2014,Sabah,281
+Female,Under 1 year,2014,Sarawak,96
+Female,Under 1 year,2014,Selangor,260
+Female,Under 1 year,2014,Terengganu,95
+Female,Under 1 year,2014,W.P. Kuala Lumpur,75
+Female,1-4,2018,Penang,1
+Female,Under 1 year,2014,W.P. Putrajaya,13
+Female,1-4,2014,Johor,45
+Female,1-4,2014,Kedah,30
+Female,1-4,2014,Kelantan,29
+Female,1-4,2014,Melaka,4
+Female,1-4,2014,Negeri Sembilan,11
+Female,1-4,2018,Penang,3
+Female,1-4,2014,Pahang,24
+Female,1-4,2014,Perak,28
+Female,1-4,2014,Perlis,1
+Female,1-4,2014,Sabah,86
+Female,1-4,2014,Sarawak,31
+Female,1-4,2014,Selangor,52
+Female,1-4,2014,Terengganu,21
+Female,1-4,2014,W.P. Kuala Lumpur,10
+Female,1-4,2018,Penang,3
+Female,1-4,2014,W.P. Putrajaya,3
+Female,5-9,2014,Johor,23
+Female,5-9,2014,Kedah,24
+Female,5-9,2014,Kelantan,30
+Female,5-9,2014,Melaka,6
+Female,5-9,2014,Negeri Sembilan,7
+Female,1-4,2018,Penang,4
+Female,5-9,2014,Pahang,24
+Female,5-9,2014,Perak,14
+Female,5-9,2014,Perlis,2
+Female,5-9,2014,Sabah,41
+Female,5-9,2014,Sarawak,25
+Female,5-9,2014,Selangor,39
+Female,5-9,2014,Terengganu,8
+Female,5-9,2014,W.P. Kuala Lumpur,10
+Female,5-9,2018,Penang,13
+Female,5-9,2014,W.P. Putrajaya,0
+Female,10-14,2014,Johor,29
+Female,10-14,2014,Kedah,19
+Female,10-14,2014,Kelantan,30
+Female,10-14,2014,Melaka,5
+Female,10-14,2014,Negeri Sembilan,12
+Female,10-14,2018,Penang,14
+Female,10-14,2014,Pahang,20
+Female,10-14,2014,Perak,28
+Female,10-14,2014,Perlis,2
+Female,10-14,2014,Sabah,36
+Female,10-14,2014,Sarawak,25
+Female,10-14,2014,Selangor,45
+Female,10-14,2014,Terengganu,15
+Female,10-14,2014,W.P. Kuala Lumpur,7
+Female,15-19,2018,Penang,24
+Female,10-14,2014,W.P. Putrajaya,1
+Female,15-19,2014,Johor,50
+Female,15-19,2014,Kedah,42
+Female,15-19,2014,Kelantan,41
+Female,15-19,2014,Melaka,13
+Female,15-19,2014,Negeri Sembilan,24
+Female,20-24,2018,Penang,21
+Female,15-19,2014,Pahang,28
+Female,15-19,2014,Perak,40
+Female,15-19,2014,Perlis,3
+Female,15-19,2014,Sabah,58
+Female,15-19,2014,Sarawak,37
+Female,15-19,2014,Selangor,64
+Female,15-19,2014,Terengganu,14
+Female,15-19,2014,W.P. Kuala Lumpur,23
+Female,25-29,2018,Penang,33
+Female,15-19,2014,W.P. Putrajaya,0
+Female,20-24,2014,Johor,76
+Female,20-24,2014,Kedah,54
+Female,20-24,2014,Kelantan,27
+Female,20-24,2014,Melaka,25
+Female,20-24,2014,Negeri Sembilan,30
+Female,30-34,2018,Penang,38
+Female,20-24,2014,Pahang,31
+Female,20-24,2014,Perak,56
+Female,20-24,2014,Perlis,3
+Female,20-24,2014,Sabah,73
+Female,20-24,2014,Sarawak,40
+Female,20-24,2014,Selangor,79
+Female,20-24,2014,Terengganu,24
+Female,20-24,2014,W.P. Kuala Lumpur,24
+Female,35-39,2018,Penang,63
+Female,20-24,2014,W.P. Putrajaya,4
+Female,25-29,2014,Johor,83
+Female,25-29,2014,Kedah,50
+Female,25-29,2014,Kelantan,57
+Female,25-29,2014,Melaka,26
+Female,25-29,2014,Negeri Sembilan,30
+Female,40-44,2018,Penang,81
+Female,25-29,2014,Pahang,39
+Female,25-29,2014,Perak,56
+Female,25-29,2014,Perlis,6
+Female,25-29,2014,Sabah,116
+Female,25-29,2014,Sarawak,50
+Female,25-29,2014,Selangor,110
+Female,25-29,2014,Terengganu,35
+Female,25-29,2014,W.P. Kuala Lumpur,25
+Female,45-49,2018,Penang,154
+Female,25-29,2014,W.P. Putrajaya,0
+Female,30-34,2014,Johor,107
+Female,30-34,2014,Kedah,61
+Female,30-34,2014,Kelantan,53
+Female,30-34,2014,Melaka,26
+Female,30-34,2014,Negeri Sembilan,27
+Female,50-54,2018,Penang,222
+Female,30-34,2014,Pahang,46
+Female,30-34,2014,Perak,79
+Female,30-34,2014,Perlis,6
+Female,30-34,2014,Sabah,126
+Female,30-34,2014,Sarawak,66
+Female,30-34,2014,Selangor,142
+Female,30-34,2014,Terengganu,42
+Female,30-34,2014,W.P. Kuala Lumpur,44
+Female,55-59,2018,Penang,324
+Female,30-34,2014,W.P. Putrajaya,7
+Female,35-39,2014,Johor,158
+Female,35-39,2014,Kedah,93
+Female,35-39,2014,Kelantan,68
+Female,35-39,2014,Melaka,27
+Female,35-39,2014,Negeri Sembilan,51
+Female,60-64,2018,Penang,446
+Female,35-39,2014,Pahang,70
+Female,35-39,2014,Perak,114
+Female,35-39,2014,Perlis,9
+Female,35-39,2014,Sabah,116
+Female,35-39,2014,Sarawak,91
+Female,35-39,2014,Selangor,187
+Female,35-39,2014,Terengganu,48
+Female,35-39,2014,W.P. Kuala Lumpur,50
+Female,65-69,2018,Penang,530
+Female,35-39,2014,W.P. Putrajaya,2
+Female,40-44,2014,Johor,189
+Female,40-44,2014,Kedah,129
+Female,40-44,2014,Kelantan,100
+Female,40-44,2014,Melaka,42
+Female,40-44,2014,Negeri Sembilan,60
+Female,70-74,2018,Penang,612
+Female,40-44,2014,Pahang,85
+Female,40-44,2014,Perak,129
+Female,40-44,2014,Perlis,20
+Female,40-44,2014,Sabah,211
+Female,40-44,2014,Sarawak,128
+Female,40-44,2014,Selangor,228
+Female,40-44,2014,Terengganu,82
+Female,40-44,2014,W.P. Kuala Lumpur,76
+Female,75-79,2018,Penang,658
+Female,40-44,2014,W.P. Putrajaya,4
+Female,45-49,2014,Johor,301
+Female,45-49,2014,Kedah,197
+Female,45-49,2014,Kelantan,152
+Female,45-49,2014,Melaka,82
+Female,45-49,2014,Negeri Sembilan,90
+Female,80-84,2018,Penang,640
+Female,45-49,2014,Pahang,129
+Female,45-49,2014,Perak,218
+Female,45-49,2014,Perlis,22
+Female,45-49,2014,Sabah,209
+Female,45-49,2014,Sarawak,175
+Female,45-49,2014,Selangor,410
+Female,45-49,2014,Terengganu,122
+Female,45-49,2014,W.P. Kuala Lumpur,99
+Female,85 +,2018,Penang,994
+Female,45-49,2014,W.P. Putrajaya,3
+Female,50-54,2014,Johor,406
+Female,50-54,2014,Kedah,314
+Female,50-54,2014,Kelantan,214
+Female,50-54,2014,Melaka,96
+Female,50-54,2014,Negeri Sembilan,154
+Male,Under 1 year,2018,Penang,73
+Female,50-54,2014,Pahang,215
+Female,50-54,2014,Perak,362
+Female,50-54,2014,Perlis,40
+Female,50-54,2014,Sabah,372
+Female,50-54,2014,Sarawak,254
+Female,50-54,2014,Selangor,571
+Female,50-54,2014,Terengganu,168
+Female,50-54,2014,W.P. Kuala Lumpur,162
+Male,1-4,2018,Penang,3
+Female,50-54,2014,W.P. Putrajaya,8
+Female,55-59,2014,Johor,527
+Female,55-59,2014,Kedah,414
+Female,55-59,2014,Kelantan,313
+Female,55-59,2014,Melaka,129
+Female,55-59,2014,Negeri Sembilan,180
+Male,1-4,2018,Penang,4
+Female,55-59,2014,Pahang,239
+Female,55-59,2014,Perak,488
+Female,55-59,2014,Perlis,52
+Female,55-59,2014,Sabah,325
+Female,55-59,2014,Sarawak,311
+Female,55-59,2014,Selangor,698
+Female,55-59,2014,Terengganu,199
+Female,55-59,2014,W.P. Kuala Lumpur,245
+Male,1-4,2018,Penang,4
+Female,55-59,2014,W.P. Putrajaya,6
+Female,60-64,2014,Johor,672
+Female,60-64,2014,Kedah,459
+Female,60-64,2014,Kelantan,386
+Female,60-64,2014,Melaka,169
+Female,60-64,2014,Negeri Sembilan,261
+Male,1-4,2018,Penang,3
+Female,60-64,2014,Pahang,290
+Female,60-64,2014,Perak,611
+Female,60-64,2014,Perlis,56
+Female,60-64,2014,Sabah,323
+Female,60-64,2014,Sarawak,376
+Female,60-64,2014,Selangor,874
+Female,60-64,2014,Terengganu,234
+Female,60-64,2014,W.P. Kuala Lumpur,293
+Male,5-9,2018,Penang,10
+Female,60-64,2014,W.P. Putrajaya,9
+Female,65-69,2014,Johor,671
+Female,65-69,2014,Kedah,520
+Female,65-69,2014,Kelantan,446
+Female,65-69,2014,Melaka,185
+Female,65-69,2014,Negeri Sembilan,236
+Male,10-14,2018,Penang,18
+Female,65-69,2014,Pahang,327
+Female,65-69,2014,Perak,724
+Female,65-69,2014,Perlis,70
+Female,65-69,2014,Sabah,453
+Female,65-69,2014,Sarawak,526
+Female,65-69,2014,Selangor,998
+Female,65-69,2014,Terengganu,286
+Female,65-69,2014,W.P. Kuala Lumpur,288
+Male,15-19,2018,Penang,54
+Female,65-69,2014,W.P. Putrajaya,8
+Female,70-74,2014,Johor,790
+Female,70-74,2014,Kedah,603
+Female,70-74,2014,Kelantan,581
+Female,70-74,2014,Melaka,225
+Female,70-74,2014,Negeri Sembilan,285
+Male,20-24,2018,Penang,83
+Female,70-74,2014,Pahang,360
+Female,70-74,2014,Perak,856
+Female,70-74,2014,Perlis,92
+Female,70-74,2014,Sabah,609
+Female,70-74,2014,Sarawak,569
+Female,70-74,2014,Selangor,986
+Female,70-74,2014,Terengganu,342
+Female,70-74,2014,W.P. Kuala Lumpur,329
+Male,25-29,2018,Penang,82
+Female,70-74,2014,W.P. Putrajaya,7
+Female,75-79,2014,Johor,1029
+Female,75-79,2014,Kedah,887
+Female,75-79,2014,Kelantan,643
+Female,75-79,2014,Melaka,306
+Female,75-79,2014,Negeri Sembilan,448
+Male,30-34,2018,Penang,103
+Female,75-79,2014,Pahang,446
+Female,75-79,2014,Perak,1167
+Female,75-79,2014,Perlis,113
+Female,75-79,2014,Sabah,610
+Female,75-79,2014,Sarawak,629
+Female,75-79,2014,Selangor,1233
+Female,75-79,2014,Terengganu,471
+Female,75-79,2014,W.P. Kuala Lumpur,433
+Male,35-39,2018,Penang,152
+Female,75-79,2014,W.P. Putrajaya,9
+Female,80-84,2014,Johor,910
+Female,80-84,2014,Kedah,706
+Female,80-84,2014,Kelantan,481
+Female,80-84,2014,Melaka,267
+Female,80-84,2014,Negeri Sembilan,321
+Male,40-44,2018,Penang,209
+Female,80-84,2014,Pahang,339
+Female,80-84,2014,Perak,1128
+Female,80-84,2014,Perlis,115
+Female,80-84,2014,Sabah,542
+Female,80-84,2014,Sarawak,730
+Female,80-84,2014,Selangor,1158
+Female,80-84,2014,Terengganu,234
+Female,80-84,2014,W.P. Kuala Lumpur,390
+Male,45-49,2018,Penang,290
+Female,80-84,2014,W.P. Putrajaya,4
+Female,85 +,2014,Johor,1166
+Female,85 +,2014,Kedah,918
+Female,85 +,2014,Kelantan,838
+Female,85 +,2014,Melaka,343
+Female,85 +,2014,Negeri Sembilan,447
+Male,50-54,2018,Penang,419
+Female,85 +,2014,Pahang,413
+Female,85 +,2014,Perak,1273
+Female,85 +,2014,Perlis,139
+Female,85 +,2014,Sabah,426
+Female,85 +,2014,Sarawak,829
+Female,85 +,2014,Selangor,1441
+Female,85 +,2014,Terengganu,422
+Female,85 +,2014,W.P. Kuala Lumpur,556
+Male,55-59,2018,Penang,567
+Female,85 +,2014,W.P. Putrajaya,6
+Male,Under 1 year,2015,Johor,255
+Male,Under 1 year,2015,Kedah,124
+Male,Under 1 year,2015,Kelantan,151
+Male,Under 1 year,2015,Melaka,41
+Male,Under 1 year,2015,Negeri Sembilan,66
+Male,60-64,2018,Penang,686
+Male,Under 1 year,2015,Pahang,130
+Male,Under 1 year,2015,Perak,132
+Male,Under 1 year,2015,Perlis,15
+Male,Under 1 year,2015,Sabah,320
+Male,Under 1 year,2015,Sarawak,128
+Male,Under 1 year,2015,Selangor,325
+Male,Under 1 year,2015,Terengganu,119
+Male,Under 1 year,2015,W.P. Kuala Lumpur,75
+Male,65-69,2018,Penang,777
+Male,Under 1 year,2015,W.P. Putrajaya,12
+Male,1-4,2015,Johor,49
+Male,1-4,2015,Kedah,27
+Male,1-4,2015,Kelantan,34
+Male,1-4,2015,Melaka,9
+Male,1-4,2015,Negeri Sembilan,14
+Male,70-74,2018,Penang,811
+Male,1-4,2015,Pahang,29
+Male,1-4,2015,Perak,31
+Male,1-4,2015,Perlis,1
+Male,1-4,2015,Sabah,78
+Male,1-4,2015,Sarawak,35
+Male,1-4,2015,Selangor,75
+Male,1-4,2015,Terengganu,26
+Male,1-4,2015,W.P. Kuala Lumpur,19
+Male,75-79,2018,Penang,741
+Male,1-4,2015,W.P. Putrajaya,2
+Male,5-9,2015,Johor,37
+Male,5-9,2015,Kedah,37
+Male,5-9,2015,Kelantan,24
+Male,5-9,2015,Melaka,10
+Male,5-9,2015,Negeri Sembilan,10
+Male,80-84,2018,Penang,645
+Male,5-9,2015,Pahang,17
+Male,5-9,2015,Perak,26
+Male,5-9,2015,Perlis,3
+Male,5-9,2015,Sabah,58
+Male,5-9,2015,Sarawak,32
+Male,5-9,2015,Selangor,64
+Male,5-9,2015,Terengganu,22
+Male,5-9,2015,W.P. Kuala Lumpur,7
+Male,85 +,2018,Penang,537
+Male,5-9,2015,W.P. Putrajaya,2
+Male,10-14,2015,Johor,58
+Male,10-14,2015,Kedah,38
+Male,10-14,2015,Kelantan,47
+Male,10-14,2015,Melaka,17
+Male,10-14,2015,Negeri Sembilan,17
+Female,Under 1 year,2017,Penang,54
+Male,10-14,2015,Pahang,45
+Male,10-14,2015,Perak,42
+Male,10-14,2015,Perlis,5
+Male,10-14,2015,Sabah,69
+Male,10-14,2015,Sarawak,47
+Male,10-14,2015,Selangor,79
+Male,10-14,2015,Terengganu,32
+Male,10-14,2015,W.P. Kuala Lumpur,11
+Female,1-4,2017,Penang,3
+Male,10-14,2015,W.P. Putrajaya,1
+Male,15-19,2015,Johor,205
+Male,15-19,2015,Kedah,144
+Male,15-19,2015,Kelantan,132
+Male,15-19,2015,Melaka,44
+Male,15-19,2015,Negeri Sembilan,60
+Female,1-4,2017,Penang,1
+Male,15-19,2015,Pahang,114
+Male,15-19,2015,Perak,131
+Male,15-19,2015,Perlis,20
+Male,15-19,2015,Sabah,100
+Male,15-19,2015,Sarawak,80
+Male,15-19,2015,Selangor,214
+Male,15-19,2015,Terengganu,71
+Male,15-19,2015,W.P. Kuala Lumpur,48
+Female,1-4,2017,Penang,2
+Male,15-19,2015,W.P. Putrajaya,2
+Male,20-24,2015,Johor,229
+Male,20-24,2015,Kedah,144
+Male,20-24,2015,Kelantan,142
+Male,20-24,2015,Melaka,63
+Male,20-24,2015,Negeri Sembilan,95
+Female,1-4,2017,Penang,2
+Male,20-24,2015,Pahang,122
+Male,20-24,2015,Perak,151
+Male,20-24,2015,Perlis,8
+Male,20-24,2015,Sabah,138
+Male,20-24,2015,Sarawak,131
+Male,20-24,2015,Selangor,261
+Male,20-24,2015,Terengganu,101
+Male,20-24,2015,W.P. Kuala Lumpur,63
+Female,5-9,2017,Penang,10
+Male,20-24,2015,W.P. Putrajaya,3
+Male,25-29,2015,Johor,180
+Male,25-29,2015,Kedah,141
+Male,25-29,2015,Kelantan,112
+Male,25-29,2015,Melaka,55
+Male,25-29,2015,Negeri Sembilan,66
+Female,10-14,2017,Penang,5
+Male,25-29,2015,Pahang,108
+Male,25-29,2015,Perak,166
+Male,25-29,2015,Perlis,22
+Male,25-29,2015,Sabah,199
+Male,25-29,2015,Sarawak,121
+Male,25-29,2015,Selangor,281
+Male,25-29,2015,Terengganu,88
+Male,25-29,2015,W.P. Kuala Lumpur,88
+Female,15-19,2017,Penang,23
+Male,25-29,2015,W.P. Putrajaya,2
+Male,30-34,2015,Johor,271
+Male,30-34,2015,Kedah,202
+Male,30-34,2015,Kelantan,127
+Male,30-34,2015,Melaka,55
+Male,30-34,2015,Negeri Sembilan,108
+Female,20-24,2017,Penang,20
+Male,30-34,2015,Pahang,139
+Male,30-34,2015,Perak,227
+Male,30-34,2015,Perlis,21
+Male,30-34,2015,Sabah,245
+Male,30-34,2015,Sarawak,150
+Male,30-34,2015,Selangor,343
+Male,30-34,2015,Terengganu,121
+Male,30-34,2015,W.P. Kuala Lumpur,90
+Female,25-29,2017,Penang,27
+Male,30-34,2015,W.P. Putrajaya,5
+Male,35-39,2015,Johor,352
+Male,35-39,2015,Kedah,232
+Male,35-39,2015,Kelantan,183
+Male,35-39,2015,Melaka,74
+Male,35-39,2015,Negeri Sembilan,146
+Female,30-34,2017,Penang,47
+Male,35-39,2015,Pahang,186
+Male,35-39,2015,Perak,236
+Male,35-39,2015,Perlis,26
+Male,35-39,2015,Sabah,248
+Male,35-39,2015,Sarawak,200
+Male,35-39,2015,Selangor,452
+Male,35-39,2015,Terengganu,144
+Male,35-39,2015,W.P. Kuala Lumpur,127
+Female,35-39,2017,Penang,58
+Male,35-39,2015,W.P. Putrajaya,4
+Male,40-44,2015,Johor,453
+Male,40-44,2015,Kedah,304
+Male,40-44,2015,Kelantan,242
+Male,40-44,2015,Melaka,90
+Male,40-44,2015,Negeri Sembilan,132
+Female,40-44,2017,Penang,82
+Male,40-44,2015,Pahang,214
+Male,40-44,2015,Perak,334
+Male,40-44,2015,Perlis,26
+Male,40-44,2015,Sabah,303
+Male,40-44,2015,Sarawak,261
+Male,40-44,2015,Selangor,596
+Male,40-44,2015,Terengganu,147
+Male,40-44,2015,W.P. Kuala Lumpur,158
+Female,45-49,2017,Penang,166
+Male,40-44,2015,W.P. Putrajaya,2
+Male,45-49,2015,Johor,581
+Male,45-49,2015,Kedah,389
+Male,45-49,2015,Kelantan,315
+Male,45-49,2015,Melaka,121
+Male,45-49,2015,Negeri Sembilan,220
+Female,50-54,2017,Penang,208
+Male,45-49,2015,Pahang,235
+Male,45-49,2015,Perak,474
+Male,45-49,2015,Perlis,45
+Male,45-49,2015,Sabah,434
+Male,45-49,2015,Sarawak,387
+Male,45-49,2015,Selangor,799
+Male,45-49,2015,Terengganu,202
+Male,45-49,2015,W.P. Kuala Lumpur,239
+Female,55-59,2017,Penang,328
+Male,45-49,2015,W.P. Putrajaya,9
+Male,50-54,2015,Johor,885
+Male,50-54,2015,Kedah,566
+Male,50-54,2015,Kelantan,416
+Male,50-54,2015,Melaka,243
+Male,50-54,2015,Negeri Sembilan,286
+Female,60-64,2017,Penang,422
+Male,50-54,2015,Pahang,348
+Male,50-54,2015,Perak,681
+Male,50-54,2015,Perlis,51
+Male,50-54,2015,Sabah,607
+Male,50-54,2015,Sarawak,460
+Male,50-54,2015,Selangor,1142
+Male,50-54,2015,Terengganu,270
+Male,50-54,2015,W.P. Kuala Lumpur,334
+Female,65-69,2017,Penang,450
+Male,50-54,2015,W.P. Putrajaya,12
+Male,55-59,2015,Johor,1079
+Male,55-59,2015,Kedah,712
+Male,55-59,2015,Kelantan,518
+Male,55-59,2015,Melaka,253
+Male,55-59,2015,Negeri Sembilan,388
+Female,70-74,2017,Penang,578
+Male,55-59,2015,Pahang,432
+Male,55-59,2015,Perak,879
+Male,55-59,2015,Perlis,84
+Male,55-59,2015,Sabah,692
+Male,55-59,2015,Sarawak,537
+Male,55-59,2015,Selangor,1386
+Male,55-59,2015,Terengganu,354
+Male,55-59,2015,W.P. Kuala Lumpur,456
+Female,75-79,2017,Penang,623
+Male,55-59,2015,W.P. Putrajaya,10
+Male,60-64,2015,Johor,1144
+Male,60-64,2015,Kedah,800
+Male,60-64,2015,Kelantan,613
+Male,60-64,2015,Melaka,267
+Male,60-64,2015,Negeri Sembilan,432
+Female,80-84,2017,Penang,677
+Male,60-64,2015,Pahang,550
+Male,60-64,2015,Perak,1056
+Male,60-64,2015,Perlis,96
+Male,60-64,2015,Sabah,592
+Male,60-64,2015,Sarawak,674
+Male,60-64,2015,Selangor,1436
+Male,60-64,2015,Terengganu,375
+Male,60-64,2015,W.P. Kuala Lumpur,480
+Female,85 +,2017,Penang,957
+Male,60-64,2015,W.P. Putrajaya,4
+Male,65-69,2015,Johor,1261
+Male,65-69,2015,Kedah,854
+Male,65-69,2015,Kelantan,773
+Male,65-69,2015,Melaka,342
+Male,65-69,2015,Negeri Sembilan,441
+Male,Under 1 year,2017,Penang,71
+Male,65-69,2015,Pahang,621
+Male,65-69,2015,Perak,1214
+Male,65-69,2015,Perlis,125
+Male,65-69,2015,Sabah,679
+Male,65-69,2015,Sarawak,717
+Male,65-69,2015,Selangor,1633
+Male,65-69,2015,Terengganu,419
+Male,65-69,2015,W.P. Kuala Lumpur,528
+Male,1-4,2017,Penang,4
+Male,65-69,2015,W.P. Putrajaya,9
+Male,70-74,2015,Johor,1085
+Male,70-74,2015,Kedah,833
+Male,70-74,2015,Kelantan,718
+Male,70-74,2015,Melaka,298
+Male,70-74,2015,Negeri Sembilan,346
+Male,1-4,2017,Penang,3
+Male,70-74,2015,Pahang,588
+Male,70-74,2015,Perak,1069
+Male,70-74,2015,Perlis,113
+Male,70-74,2015,Sabah,824
+Male,70-74,2015,Sarawak,849
+Male,70-74,2015,Selangor,1369
+Male,70-74,2015,Terengganu,444
+Male,70-74,2015,W.P. Kuala Lumpur,435
+Male,1-4,2017,Penang,5
+Male,70-74,2015,W.P. Putrajaya,4
+Male,75-79,2015,Johor,1285
+Male,75-79,2015,Kedah,985
+Male,75-79,2015,Kelantan,626
+Male,75-79,2015,Melaka,348
+Male,75-79,2015,Negeri Sembilan,415
+Male,1-4,2017,Penang,5
+Male,75-79,2015,Pahang,618
+Male,75-79,2015,Perak,1190
+Male,75-79,2015,Perlis,127
+Male,75-79,2015,Sabah,764
+Male,75-79,2015,Sarawak,744
+Male,75-79,2015,Selangor,1399
+Male,75-79,2015,Terengganu,432
+Male,75-79,2015,W.P. Kuala Lumpur,522
+Male,5-9,2017,Penang,11
+Male,75-79,2015,W.P. Putrajaya,3
+Male,80-84,2015,Johor,824
+Male,80-84,2015,Kedah,629
+Male,80-84,2015,Kelantan,408
+Male,80-84,2015,Melaka,221
+Male,80-84,2015,Negeri Sembilan,305
+Male,10-14,2017,Penang,18
+Male,80-84,2015,Pahang,293
+Male,80-84,2015,Perak,927
+Male,80-84,2015,Perlis,85
+Male,80-84,2015,Sabah,609
+Male,80-84,2015,Sarawak,646
+Male,80-84,2015,Selangor,998
+Male,80-84,2015,Terengganu,207
+Male,80-84,2015,W.P. Kuala Lumpur,362
+Male,15-19,2017,Penang,60
+Male,80-84,2015,W.P. Putrajaya,3
+Male,85 +,2015,Johor,812
+Male,85 +,2015,Kedah,572
+Male,85 +,2015,Kelantan,506
+Male,85 +,2015,Melaka,227
+Male,85 +,2015,Negeri Sembilan,276
+Male,20-24,2017,Penang,96
+Male,85 +,2015,Pahang,255
+Male,85 +,2015,Perak,793
+Male,85 +,2015,Perlis,85
+Male,85 +,2015,Sabah,406
+Male,85 +,2015,Sarawak,703
+Male,85 +,2015,Selangor,837
+Male,85 +,2015,Terengganu,276
+Male,85 +,2015,W.P. Kuala Lumpur,353
+Male,25-29,2017,Penang,85
+Male,85 +,2015,W.P. Putrajaya,6
+Female,Under 1 year,2015,Johor,185
+Female,Under 1 year,2015,Kedah,117
+Female,Under 1 year,2015,Kelantan,110
+Female,Under 1 year,2015,Melaka,39
+Female,Under 1 year,2015,Negeri Sembilan,62
+Male,30-34,2017,Penang,117
+Female,Under 1 year,2015,Pahang,86
+Female,Under 1 year,2015,Perak,102
+Female,Under 1 year,2015,Perlis,20
+Female,Under 1 year,2015,Sabah,294
+Female,Under 1 year,2015,Sarawak,95
+Female,Under 1 year,2015,Selangor,247
+Female,Under 1 year,2015,Terengganu,99
+Female,Under 1 year,2015,W.P. Kuala Lumpur,65
+Male,35-39,2017,Penang,133
+Female,Under 1 year,2015,W.P. Putrajaya,10
+Female,1-4,2015,Johor,28
+Female,1-4,2015,Kedah,20
+Female,1-4,2015,Kelantan,20
+Female,1-4,2015,Melaka,13
+Female,1-4,2015,Negeri Sembilan,12
+Male,40-44,2017,Penang,181
+Female,1-4,2015,Pahang,28
+Female,1-4,2015,Perak,30
+Female,1-4,2015,Perlis,2
+Female,1-4,2015,Sabah,74
+Female,1-4,2015,Sarawak,18
+Female,1-4,2015,Selangor,53
+Female,1-4,2015,Terengganu,21
+Female,1-4,2015,W.P. Kuala Lumpur,8
+Male,45-49,2017,Penang,271
+Female,1-4,2015,W.P. Putrajaya,3
+Female,5-9,2015,Johor,28
+Female,5-9,2015,Kedah,15
+Female,5-9,2015,Kelantan,16
+Female,5-9,2015,Melaka,7
+Female,5-9,2015,Negeri Sembilan,10
+Male,50-54,2017,Penang,441
+Female,5-9,2015,Pahang,25
+Female,5-9,2015,Perak,16
+Female,5-9,2015,Perlis,4
+Female,5-9,2015,Sabah,36
+Female,5-9,2015,Sarawak,22
+Female,5-9,2015,Selangor,37
+Female,5-9,2015,Terengganu,14
+Female,5-9,2015,W.P. Kuala Lumpur,10
+Male,55-59,2017,Penang,537
+Female,5-9,2015,W.P. Putrajaya,0
+Female,10-14,2015,Johor,26
+Female,10-14,2015,Kedah,33
+Female,10-14,2015,Kelantan,36
+Female,10-14,2015,Melaka,6
+Female,10-14,2015,Negeri Sembilan,10
+Male,60-64,2017,Penang,721
+Female,10-14,2015,Pahang,14
+Female,10-14,2015,Perak,14
+Female,10-14,2015,Perlis,4
+Female,10-14,2015,Sabah,30
+Female,10-14,2015,Sarawak,24
+Female,10-14,2015,Selangor,39
+Female,10-14,2015,Terengganu,17
+Female,10-14,2015,W.P. Kuala Lumpur,7
+Male,65-69,2017,Penang,776
+Female,10-14,2015,W.P. Putrajaya,0
+Female,15-19,2015,Johor,60
+Female,15-19,2015,Kedah,42
+Female,15-19,2015,Kelantan,33
+Female,15-19,2015,Melaka,12
+Female,15-19,2015,Negeri Sembilan,17
+Male,70-74,2017,Penang,760
+Female,15-19,2015,Pahang,33
+Female,15-19,2015,Perak,41
+Female,15-19,2015,Perlis,4
+Female,15-19,2015,Sabah,66
+Female,15-19,2015,Sarawak,27
+Female,15-19,2015,Selangor,67
+Female,15-19,2015,Terengganu,21
+Female,15-19,2015,W.P. Kuala Lumpur,20
+Male,75-79,2017,Penang,694
+Female,15-19,2015,W.P. Putrajaya,2
+Female,20-24,2015,Johor,72
+Female,20-24,2015,Kedah,54
+Female,20-24,2015,Kelantan,38
+Female,20-24,2015,Melaka,17
+Female,20-24,2015,Negeri Sembilan,15
+Male,80-84,2017,Penang,537
+Female,20-24,2015,Pahang,41
+Female,20-24,2015,Perak,43
+Female,20-24,2015,Perlis,12
+Female,20-24,2015,Sabah,90
+Female,20-24,2015,Sarawak,41
+Female,20-24,2015,Selangor,87
+Female,20-24,2015,Terengganu,26
+Female,20-24,2015,W.P. Kuala Lumpur,19
+Male,85 +,2017,Penang,458
+Female,20-24,2015,W.P. Putrajaya,1
+Female,25-29,2015,Johor,91
+Female,25-29,2015,Kedah,66
+Female,25-29,2015,Kelantan,59
+Female,25-29,2015,Melaka,22
+Female,25-29,2015,Negeri Sembilan,24
+Female,25-29,2015,Pahang,47
+Female,25-29,2015,Perak,56
+Female,25-29,2015,Perlis,4
+Female,25-29,2015,Sabah,124
+Female,25-29,2015,Sarawak,62
+Female,25-29,2015,Selangor,121
+Female,25-29,2015,Terengganu,36
+Female,25-29,2015,W.P. Kuala Lumpur,26
+Female,25-29,2015,W.P. Putrajaya,2
+Female,30-34,2015,Johor,107
+Female,30-34,2015,Kedah,83
+Female,30-34,2015,Kelantan,76
+Female,30-34,2015,Melaka,30
+Female,30-34,2015,Negeri Sembilan,33
+Female,30-34,2015,Pahang,48
+Female,30-34,2015,Perak,85
+Female,30-34,2015,Perlis,11
+Female,30-34,2015,Sabah,133
+Female,30-34,2015,Sarawak,75
+Female,30-34,2015,Selangor,149
+Female,30-34,2015,Terengganu,50
+Female,30-34,2015,W.P. Kuala Lumpur,37
+Female,30-34,2015,W.P. Putrajaya,6
+Female,35-39,2015,Johor,142
+Female,35-39,2015,Kedah,89
+Female,35-39,2015,Kelantan,75
+Female,35-39,2015,Melaka,32
+Female,35-39,2015,Negeri Sembilan,43
+Female,35-39,2015,Pahang,69
+Female,35-39,2015,Perak,86
+Female,35-39,2015,Perlis,13
+Female,35-39,2015,Sabah,118
+Female,35-39,2015,Sarawak,115
+Female,35-39,2015,Selangor,192
+Female,35-39,2015,Terengganu,56
+Female,35-39,2015,W.P. Kuala Lumpur,41
+Female,35-39,2015,W.P. Putrajaya,4
+Female,40-44,2015,Johor,237
+Female,40-44,2015,Kedah,124
+Female,40-44,2015,Kelantan,107
+Female,40-44,2015,Melaka,44
+Female,40-44,2015,Negeri Sembilan,57
+Female,40-44,2015,Pahang,96
+Female,40-44,2015,Perak,123
+Female,40-44,2015,Perlis,16
+Female,40-44,2015,Sabah,206
+Female,40-44,2015,Sarawak,129
+Female,40-44,2015,Selangor,281
+Female,40-44,2015,Terengganu,71
+Female,40-44,2015,W.P. Kuala Lumpur,67
+Female,40-44,2015,W.P. Putrajaya,7
+Female,45-49,2015,Johor,297
+Female,45-49,2015,Kedah,203
+Female,45-49,2015,Kelantan,161
+Female,45-49,2015,Melaka,67
+Female,45-49,2015,Negeri Sembilan,105
+Female,45-49,2015,Pahang,123
+Female,45-49,2015,Perak,216
+Female,45-49,2015,Perlis,22
+Female,45-49,2015,Sabah,242
+Female,45-49,2015,Sarawak,169
+Female,45-49,2015,Selangor,402
+Female,45-49,2015,Terengganu,104
+Female,45-49,2015,W.P. Kuala Lumpur,110
+Female,45-49,2015,W.P. Putrajaya,2
+Female,50-54,2015,Johor,399
+Female,50-54,2015,Kedah,298
+Female,50-54,2015,Kelantan,239
+Female,50-54,2015,Melaka,88
+Female,50-54,2015,Negeri Sembilan,150
+Female,50-54,2015,Pahang,202
+Female,50-54,2015,Perak,348
+Female,50-54,2015,Perlis,41
+Female,50-54,2015,Sabah,363
+Female,50-54,2015,Sarawak,245
+Female,50-54,2015,Selangor,572
+Female,50-54,2015,Terengganu,165
+Female,50-54,2015,W.P. Kuala Lumpur,182
+Female,50-54,2015,W.P. Putrajaya,3
+Female,55-59,2015,Johor,620
+Female,55-59,2015,Kedah,426
+Female,55-59,2015,Kelantan,326
+Female,55-59,2015,Melaka,143
+Female,55-59,2015,Negeri Sembilan,175
+Female,55-59,2015,Pahang,279
+Female,55-59,2015,Perak,478
+Female,55-59,2015,Perlis,65
+Female,55-59,2015,Sabah,367
+Female,55-59,2015,Sarawak,305
+Female,55-59,2015,Selangor,818
+Female,55-59,2015,Terengganu,224
+Female,55-59,2015,W.P. Kuala Lumpur,214
+Female,55-59,2015,W.P. Putrajaya,8
+Female,60-64,2015,Johor,683
+Female,60-64,2015,Kedah,530
+Female,60-64,2015,Kelantan,410
+Female,60-64,2015,Melaka,202
+Female,60-64,2015,Negeri Sembilan,269
+Female,60-64,2015,Pahang,319
+Female,60-64,2015,Perak,645
+Female,60-64,2015,Perlis,71
+Female,60-64,2015,Sabah,340
+Female,60-64,2015,Sarawak,400
+Female,60-64,2015,Selangor,922
+Female,60-64,2015,Terengganu,249
+Female,60-64,2015,W.P. Kuala Lumpur,270
+Female,60-64,2015,W.P. Putrajaya,6
+Female,65-69,2015,Johor,803
+Female,65-69,2015,Kedah,571
+Female,65-69,2015,Kelantan,460
+Female,65-69,2015,Melaka,254
+Female,65-69,2015,Negeri Sembilan,287
+Female,65-69,2015,Pahang,346
+Female,65-69,2015,Perak,740
+Female,65-69,2015,Perlis,78
+Female,65-69,2015,Sabah,456
+Female,65-69,2015,Sarawak,535
+Female,65-69,2015,Selangor,1041
+Female,65-69,2015,Terengganu,231
+Female,65-69,2015,W.P. Kuala Lumpur,326
+Female,65-69,2015,W.P. Putrajaya,13
+Female,70-74,2015,Johor,747
+Female,70-74,2015,Kedah,576
+Female,70-74,2015,Kelantan,611
+Female,70-74,2015,Melaka,219
+Female,70-74,2015,Negeri Sembilan,265
+Female,70-74,2015,Pahang,377
+Female,70-74,2015,Perak,812
+Female,70-74,2015,Perlis,76
+Female,70-74,2015,Sabah,599
+Female,70-74,2015,Sarawak,614
+Female,70-74,2015,Selangor,999
+Female,70-74,2015,Terengganu,343
+Female,70-74,2015,W.P. Kuala Lumpur,353
+Female,70-74,2015,W.P. Putrajaya,7
+Female,75-79,2015,Johor,1038
+Female,75-79,2015,Kedah,954
+Female,75-79,2015,Kelantan,616
+Female,75-79,2015,Melaka,321
+Female,75-79,2015,Negeri Sembilan,424
+Female,75-79,2015,Pahang,494
+Female,75-79,2015,Perak,1036
+Female,75-79,2015,Perlis,126
+Female,75-79,2015,Sabah,625
+Female,75-79,2015,Sarawak,682
+Female,75-79,2015,Selangor,1332
+Female,75-79,2015,Terengganu,451
+Female,75-79,2015,W.P. Kuala Lumpur,413
+Female,75-79,2015,W.P. Putrajaya,8
+Female,80-84,2015,Johor,954
+Female,80-84,2015,Kedah,770
+Female,80-84,2015,Kelantan,506
+Female,80-84,2015,Melaka,304
+Female,80-84,2015,Negeri Sembilan,370
+Female,80-84,2015,Pahang,370
+Female,80-84,2015,Perak,1099
+Female,80-84,2015,Perlis,98
+Female,80-84,2015,Sabah,538
+Female,80-84,2015,Sarawak,729
+Female,80-84,2015,Selangor,1248
+Female,80-84,2015,Terengganu,263
+Female,80-84,2015,W.P. Kuala Lumpur,438
+Female,80-84,2015,W.P. Putrajaya,9
+Female,85 +,2015,Johor,1291
+Female,85 +,2015,Kedah,970
+Female,85 +,2015,Kelantan,803
+Female,85 +,2015,Melaka,361
+Female,85 +,2015,Negeri Sembilan,460
+Female,85 +,2015,Pahang,430
+Female,85 +,2015,Perak,1430
+Female,85 +,2015,Perlis,142
+Female,85 +,2015,Sabah,445
+Female,85 +,2015,Sarawak,1011
+Female,85 +,2015,Selangor,1508
+Female,85 +,2015,Terengganu,424
+Female,85 +,2015,W.P. Kuala Lumpur,607
+Female,85 +,2015,W.P. Putrajaya,7
+Male,Under 1 year,2016,Johor,249
+Male,Under 1 year,2016,Kedah,133
+Male,Under 1 year,2016,Kelantan,160
+Male,Under 1 year,2016,Melaka,60
+Male,Under 1 year,2016,Negeri Sembilan,64
+Male,Under 1 year,2016,Pahang,106
+Male,Under 1 year,2016,Perak,143
+Male,Under 1 year,2016,Perlis,15
+Male,Under 1 year,2016,Sabah,163
+Male,Under 1 year,2016,Sarawak,126
+Male,Under 1 year,2016,Selangor,351
+Male,Under 1 year,2016,Terengganu,113
+Male,Under 1 year,2016,W.P. Kuala Lumpur,85
+Male,Under 1 year,2016,W.P. Putrajaya,13
+Male,1-4,2016,Johor,43
+Male,1-4,2016,Kedah,28
+Male,1-4,2016,Kelantan,33
+Male,1-4,2016,Melaka,9
+Male,1-4,2016,Negeri Sembilan,10
+Male,1-4,2016,Pahang,28
+Male,1-4,2016,Perak,33
+Male,1-4,2016,Perlis,4
+Male,1-4,2016,Sabah,39
+Male,1-4,2016,Sarawak,31
+Male,1-4,2016,Selangor,72
+Male,1-4,2016,Terengganu,20
+Male,1-4,2016,W.P. Kuala Lumpur,22
+Male,1-4,2016,W.P. Putrajaya,6
+Male,5-9,2016,Johor,42
+Male,5-9,2016,Kedah,17
+Male,5-9,2016,Kelantan,35
+Male,5-9,2016,Melaka,2
+Male,5-9,2016,Negeri Sembilan,14
+Male,5-9,2016,Pahang,21
+Male,5-9,2016,Perak,20
+Male,5-9,2016,Perlis,0
+Male,5-9,2016,Sabah,50
+Male,5-9,2016,Sarawak,30
+Male,5-9,2016,Selangor,61
+Male,5-9,2016,Terengganu,25
+Male,5-9,2016,W.P. Kuala Lumpur,9
+Male,5-9,2016,W.P. Putrajaya,0
+Male,10-14,2016,Johor,57
+Male,10-14,2016,Kedah,39
+Male,10-14,2016,Kelantan,40
+Male,10-14,2016,Melaka,13
+Male,10-14,2016,Negeri Sembilan,19
+Male,10-14,2016,Pahang,27
+Male,10-14,2016,Perak,44
+Male,10-14,2016,Perlis,4
+Male,10-14,2016,Sabah,60
+Male,10-14,2016,Sarawak,29
+Male,10-14,2016,Selangor,81
+Male,10-14,2016,Terengganu,39
+Male,10-14,2016,W.P. Kuala Lumpur,17
+Male,10-14,2016,W.P. Putrajaya,0
+Male,15-19,2016,Johor,225
+Male,15-19,2016,Kedah,161
+Male,15-19,2016,Kelantan,141
+Male,15-19,2016,Melaka,63
+Male,15-19,2016,Negeri Sembilan,69
+Male,15-19,2016,Pahang,114
+Male,15-19,2016,Perak,170
+Male,15-19,2016,Perlis,23
+Male,15-19,2016,Sabah,92
+Male,15-19,2016,Sarawak,101
+Male,15-19,2016,Selangor,243
+Male,15-19,2016,Terengganu,80
+Male,15-19,2016,W.P. Kuala Lumpur,49
+Male,15-19,2016,W.P. Putrajaya,2
+Male,20-24,2016,Johor,261
+Male,20-24,2016,Kedah,161
+Male,20-24,2016,Kelantan,117
+Male,20-24,2016,Melaka,59
+Male,20-24,2016,Negeri Sembilan,95
+Male,20-24,2016,Pahang,116
+Male,20-24,2016,Perak,188
+Male,20-24,2016,Perlis,17
+Male,20-24,2016,Sabah,155
+Male,20-24,2016,Sarawak,129
+Male,20-24,2016,Selangor,294
+Male,20-24,2016,Terengganu,91
+Male,20-24,2016,W.P. Kuala Lumpur,73
+Male,20-24,2016,W.P. Putrajaya,1
+Male,25-29,2016,Johor,230
+Male,25-29,2016,Kedah,113
+Male,25-29,2016,Kelantan,132
+Male,25-29,2016,Melaka,56
+Male,25-29,2016,Negeri Sembilan,91
+Male,25-29,2016,Pahang,92
+Male,25-29,2016,Perak,161
+Male,25-29,2016,Perlis,21
+Male,25-29,2016,Sabah,175
+Male,25-29,2016,Sarawak,128
+Male,25-29,2016,Selangor,221
+Male,25-29,2016,Terengganu,82
+Male,25-29,2016,W.P. Kuala Lumpur,87
+Male,25-29,2016,W.P. Putrajaya,5
+Male,30-34,2016,Johor,281
+Male,30-34,2016,Kedah,181
+Male,30-34,2016,Kelantan,141
+Male,30-34,2016,Melaka,60
+Male,30-34,2016,Negeri Sembilan,99
+Male,30-34,2016,Pahang,155
+Male,30-34,2016,Perak,199
+Male,30-34,2016,Perlis,29
+Male,30-34,2016,Sabah,174
+Male,30-34,2016,Sarawak,209
+Male,30-34,2016,Selangor,380
+Male,30-34,2016,Terengganu,104
+Male,30-34,2016,W.P. Kuala Lumpur,101
+Male,30-34,2016,W.P. Putrajaya,0
+Male,35-39,2016,Johor,338
+Male,35-39,2016,Kedah,167
+Male,35-39,2016,Kelantan,202
+Male,35-39,2016,Melaka,76
+Male,35-39,2016,Negeri Sembilan,136
+Male,35-39,2016,Pahang,208
+Male,35-39,2016,Perak,224
+Male,35-39,2016,Perlis,20
+Male,35-39,2016,Sabah,233
+Male,35-39,2016,Sarawak,230
+Male,35-39,2016,Selangor,485
+Male,35-39,2016,Terengganu,157
+Male,35-39,2016,W.P. Kuala Lumpur,113
+Male,35-39,2016,W.P. Putrajaya,3
+Male,40-44,2016,Johor,450
+Male,40-44,2016,Kedah,295
+Male,40-44,2016,Kelantan,234
+Male,40-44,2016,Melaka,93
+Male,40-44,2016,Negeri Sembilan,146
+Male,40-44,2016,Pahang,198
+Male,40-44,2016,Perak,301
+Male,40-44,2016,Perlis,28
+Male,40-44,2016,Sabah,282
+Male,40-44,2016,Sarawak,292
+Male,40-44,2016,Selangor,641
+Male,40-44,2016,Terengganu,196
+Male,40-44,2016,W.P. Kuala Lumpur,192
+Male,40-44,2016,W.P. Putrajaya,8
+Male,45-49,2016,Johor,586
+Male,45-49,2016,Kedah,396
+Male,45-49,2016,Kelantan,262
+Male,45-49,2016,Melaka,145
+Male,45-49,2016,Negeri Sembilan,197
+Male,45-49,2016,Pahang,255
+Male,45-49,2016,Perak,497
+Male,45-49,2016,Perlis,46
+Male,45-49,2016,Sabah,427
+Male,45-49,2016,Sarawak,370
+Male,45-49,2016,Selangor,932
+Male,45-49,2016,Terengganu,176
+Male,45-49,2016,W.P. Kuala Lumpur,225
+Male,45-49,2016,W.P. Putrajaya,5
+Male,50-54,2016,Johor,840
+Male,50-54,2016,Kedah,571
+Male,50-54,2016,Kelantan,402
+Male,50-54,2016,Melaka,203
+Male,50-54,2016,Negeri Sembilan,326
+Male,50-54,2016,Pahang,406
+Male,50-54,2016,Perak,724
+Male,50-54,2016,Perlis,61
+Male,50-54,2016,Sabah,530
+Male,50-54,2016,Sarawak,474
+Male,50-54,2016,Selangor,1230
+Male,50-54,2016,Terengganu,254
+Male,50-54,2016,W.P. Kuala Lumpur,333
+Male,50-54,2016,W.P. Putrajaya,9
+Male,55-59,2016,Johor,1116
+Male,55-59,2016,Kedah,697
+Male,55-59,2016,Kelantan,548
+Male,55-59,2016,Melaka,274
+Male,55-59,2016,Negeri Sembilan,400
+Male,55-59,2016,Pahang,466
+Male,55-59,2016,Perak,897
+Male,55-59,2016,Perlis,90
+Male,55-59,2016,Sabah,724
+Male,55-59,2016,Sarawak,545
+Male,55-59,2016,Selangor,1483
+Male,55-59,2016,Terengganu,358
+Male,55-59,2016,W.P. Kuala Lumpur,476
+Male,55-59,2016,W.P. Putrajaya,9
+Male,60-64,2016,Johor,1276
+Male,60-64,2016,Kedah,852
+Male,60-64,2016,Kelantan,592
+Male,60-64,2016,Melaka,326
+Male,60-64,2016,Negeri Sembilan,452
+Male,60-64,2016,Pahang,601
+Male,60-64,2016,Perak,1094
+Male,60-64,2016,Perlis,100
+Male,60-64,2016,Sabah,791
+Male,60-64,2016,Sarawak,643
+Male,60-64,2016,Selangor,1622
+Male,60-64,2016,Terengganu,434
+Male,60-64,2016,W.P. Kuala Lumpur,581
+Male,60-64,2016,W.P. Putrajaya,8
+Male,65-69,2016,Johor,1364
+Male,65-69,2016,Kedah,903
+Male,65-69,2016,Kelantan,729
+Male,65-69,2016,Melaka,360
+Male,65-69,2016,Negeri Sembilan,479
+Male,65-69,2016,Pahang,641
+Male,65-69,2016,Perak,1257
+Male,65-69,2016,Perlis,127
+Male,65-69,2016,Sabah,721
+Male,65-69,2016,Sarawak,685
+Male,65-69,2016,Selangor,1716
+Male,65-69,2016,Terengganu,373
+Male,65-69,2016,W.P. Kuala Lumpur,550
+Male,65-69,2016,W.P. Putrajaya,5
+Male,70-74,2016,Johor,1228
+Male,70-74,2016,Kedah,827
+Male,70-74,2016,Kelantan,781
+Male,70-74,2016,Melaka,332
+Male,70-74,2016,Negeri Sembilan,357
+Male,70-74,2016,Pahang,624
+Male,70-74,2016,Perak,1166
+Male,70-74,2016,Perlis,124
+Male,70-74,2016,Sabah,811
+Male,70-74,2016,Sarawak,882
+Male,70-74,2016,Selangor,1540
+Male,70-74,2016,Terengganu,502
+Male,70-74,2016,W.P. Kuala Lumpur,499
+Male,70-74,2016,W.P. Putrajaya,3
+Male,75-79,2016,Johor,1285
+Male,75-79,2016,Kedah,951
+Male,75-79,2016,Kelantan,681
+Male,75-79,2016,Melaka,332
+Male,75-79,2016,Negeri Sembilan,413
+Male,75-79,2016,Pahang,606
+Male,75-79,2016,Perak,1165
+Male,75-79,2016,Perlis,106
+Male,75-79,2016,Sabah,873
+Male,75-79,2016,Sarawak,804
+Male,75-79,2016,Selangor,1536
+Male,75-79,2016,Terengganu,404
+Male,75-79,2016,W.P. Kuala Lumpur,554
+Male,75-79,2016,W.P. Putrajaya,2
+Male,80-84,2016,Johor,935
+Male,80-84,2016,Kedah,647
+Male,80-84,2016,Kelantan,388
+Male,80-84,2016,Melaka,239
+Male,80-84,2016,Negeri Sembilan,305
+Male,80-84,2016,Pahang,385
+Male,80-84,2016,Perak,989
+Male,80-84,2016,Perlis,98
+Male,80-84,2016,Sabah,736
+Male,80-84,2016,Sarawak,748
+Male,80-84,2016,Selangor,1087
+Male,80-84,2016,Terengganu,259
+Male,80-84,2016,W.P. Kuala Lumpur,439
+Male,80-84,2016,W.P. Putrajaya,4
+Male,85 +,2016,Johor,868
+Male,85 +,2016,Kedah,595
+Male,85 +,2016,Kelantan,493
+Male,85 +,2016,Melaka,213
+Male,85 +,2016,Negeri Sembilan,292
+Male,85 +,2016,Pahang,298
+Male,85 +,2016,Perak,841
+Male,85 +,2016,Perlis,110
+Male,85 +,2016,Sabah,519
+Male,85 +,2016,Sarawak,762
+Male,85 +,2016,Selangor,973
+Male,85 +,2016,Terengganu,278
+Male,85 +,2016,W.P. Kuala Lumpur,328
+Male,85 +,2016,W.P. Putrajaya,3
+Female,Under 1 year,2016,Johor,194
+Female,Under 1 year,2016,Kedah,121
+Female,Under 1 year,2016,Kelantan,138
+Female,Under 1 year,2016,Melaka,40
+Female,Under 1 year,2016,Negeri Sembilan,52
+Female,Under 1 year,2016,Pahang,98
+Female,Under 1 year,2016,Perak,102
+Female,Under 1 year,2016,Perlis,11
+Female,Under 1 year,2016,Sabah,135
+Female,Under 1 year,2016,Sarawak,103
+Female,Under 1 year,2016,Selangor,292
+Female,Under 1 year,2016,Terengganu,86
+Female,Under 1 year,2016,W.P. Kuala Lumpur,74
+Female,Under 1 year,2016,W.P. Putrajaya,8
+Female,1-4,2016,Johor,48
+Female,1-4,2016,Kedah,26
+Female,1-4,2016,Kelantan,36
+Female,1-4,2016,Melaka,5
+Female,1-4,2016,Negeri Sembilan,9
+Female,1-4,2016,Pahang,22
+Female,1-4,2016,Perak,30
+Female,1-4,2016,Perlis,0
+Female,1-4,2016,Sabah,40
+Female,1-4,2016,Sarawak,24
+Female,1-4,2016,Selangor,61
+Female,1-4,2016,Terengganu,17
+Female,1-4,2016,W.P. Kuala Lumpur,10
+Female,1-4,2016,W.P. Putrajaya,1
+Female,5-9,2016,Johor,26
+Female,5-9,2016,Kedah,11
+Female,5-9,2016,Kelantan,24
+Female,5-9,2016,Melaka,10
+Female,5-9,2016,Negeri Sembilan,9
+Female,5-9,2016,Pahang,9
+Female,5-9,2016,Perak,25
+Female,5-9,2016,Perlis,0
+Female,5-9,2016,Sabah,33
+Female,5-9,2016,Sarawak,27
+Female,5-9,2016,Selangor,31
+Female,5-9,2016,Terengganu,17
+Female,5-9,2016,W.P. Kuala Lumpur,10
+Female,5-9,2016,W.P. Putrajaya,1
+Female,10-14,2016,Johor,22
+Female,10-14,2016,Kedah,20
+Female,10-14,2016,Kelantan,23
+Female,10-14,2016,Melaka,2
+Female,10-14,2016,Negeri Sembilan,7
+Female,10-14,2016,Pahang,22
+Female,10-14,2016,Perak,22
+Female,10-14,2016,Perlis,4
+Female,10-14,2016,Sabah,34
+Female,10-14,2016,Sarawak,11
+Female,10-14,2016,Selangor,28
+Female,10-14,2016,Terengganu,28
+Female,10-14,2016,W.P. Kuala Lumpur,9
+Female,10-14,2016,W.P. Putrajaya,0
+Female,15-19,2016,Johor,56
+Female,15-19,2016,Kedah,39
+Female,15-19,2016,Kelantan,36
+Female,15-19,2016,Melaka,11
+Female,15-19,2016,Negeri Sembilan,12
+Female,15-19,2016,Pahang,21
+Female,15-19,2016,Perak,42
+Female,15-19,2016,Perlis,4
+Female,15-19,2016,Sabah,49
+Female,15-19,2016,Sarawak,30
+Female,15-19,2016,Selangor,54
+Female,15-19,2016,Terengganu,25
+Female,15-19,2016,W.P. Kuala Lumpur,16
+Female,15-19,2016,W.P. Putrajaya,1
+Female,20-24,2016,Johor,75
+Female,20-24,2016,Kedah,48
+Female,20-24,2016,Kelantan,49
+Female,20-24,2016,Melaka,18
+Female,20-24,2016,Negeri Sembilan,20
+Female,20-24,2016,Pahang,40
+Female,20-24,2016,Perak,50
+Female,20-24,2016,Perlis,6
+Female,20-24,2016,Sabah,79
+Female,20-24,2016,Sarawak,46
+Female,20-24,2016,Selangor,83
+Female,20-24,2016,Terengganu,37
+Female,20-24,2016,W.P. Kuala Lumpur,26
+Female,20-24,2016,W.P. Putrajaya,1
+Female,25-29,2016,Johor,94
+Female,25-29,2016,Kedah,42
+Female,25-29,2016,Kelantan,52
+Female,25-29,2016,Melaka,12
+Female,25-29,2016,Negeri Sembilan,26
+Female,25-29,2016,Pahang,31
+Female,25-29,2016,Perak,57
+Female,25-29,2016,Perlis,5
+Female,25-29,2016,Sabah,87
+Female,25-29,2016,Sarawak,44
+Female,25-29,2016,Selangor,112
+Female,25-29,2016,Terengganu,36
+Female,25-29,2016,W.P. Kuala Lumpur,26
+Female,25-29,2016,W.P. Putrajaya,1
+Female,30-34,2016,Johor,124
+Female,30-34,2016,Kedah,78
+Female,30-34,2016,Kelantan,65
+Female,30-34,2016,Melaka,27
+Female,30-34,2016,Negeri Sembilan,48
+Female,30-34,2016,Pahang,79
+Female,30-34,2016,Perak,85
+Female,30-34,2016,Perlis,8
+Female,30-34,2016,Sabah,124
+Female,30-34,2016,Sarawak,72
+Female,30-34,2016,Selangor,163
+Female,30-34,2016,Terengganu,46
+Female,30-34,2016,W.P. Kuala Lumpur,38
+Female,30-34,2016,W.P. Putrajaya,1
+Female,35-39,2016,Johor,146
+Female,35-39,2016,Kedah,108
+Female,35-39,2016,Kelantan,79
+Female,35-39,2016,Melaka,45
+Female,35-39,2016,Negeri Sembilan,47
+Female,35-39,2016,Pahang,74
+Female,35-39,2016,Perak,89
+Female,35-39,2016,Perlis,16
+Female,35-39,2016,Sabah,150
+Female,35-39,2016,Sarawak,82
+Female,35-39,2016,Selangor,203
+Female,35-39,2016,Terengganu,55
+Female,35-39,2016,W.P. Kuala Lumpur,57
+Female,35-39,2016,W.P. Putrajaya,3
+Female,40-44,2016,Johor,246
+Female,40-44,2016,Kedah,133
+Female,40-44,2016,Kelantan,111
+Female,40-44,2016,Melaka,51
+Female,40-44,2016,Negeri Sembilan,71
+Female,40-44,2016,Pahang,95
+Female,40-44,2016,Perak,136
+Female,40-44,2016,Perlis,13
+Female,40-44,2016,Sabah,162
+Female,40-44,2016,Sarawak,138
+Female,40-44,2016,Selangor,277
+Female,40-44,2016,Terengganu,59
+Female,40-44,2016,W.P. Kuala Lumpur,78
+Female,40-44,2016,W.P. Putrajaya,1
+Female,45-49,2016,Johor,301
+Female,45-49,2016,Kedah,197
+Female,45-49,2016,Kelantan,151
+Female,45-49,2016,Melaka,82
+Female,45-49,2016,Negeri Sembilan,88
+Female,45-49,2016,Pahang,128
+Female,45-49,2016,Perak,221
+Female,45-49,2016,Perlis,19
+Female,45-49,2016,Sabah,192
+Female,45-49,2016,Sarawak,191
+Female,45-49,2016,Selangor,403
+Female,45-49,2016,Terengganu,108
+Female,45-49,2016,W.P. Kuala Lumpur,107
+Female,45-49,2016,W.P. Putrajaya,1
+Female,50-54,2016,Johor,431
+Female,50-54,2016,Kedah,333
+Female,50-54,2016,Kelantan,250
+Female,50-54,2016,Melaka,110
+Female,50-54,2016,Negeri Sembilan,142
+Female,50-54,2016,Pahang,204
+Female,50-54,2016,Perak,367
+Female,50-54,2016,Perlis,45
+Female,50-54,2016,Sabah,295
+Female,50-54,2016,Sarawak,268
+Female,50-54,2016,Selangor,572
+Female,50-54,2016,Terengganu,152
+Female,50-54,2016,W.P. Kuala Lumpur,174
+Female,50-54,2016,W.P. Putrajaya,3
+Female,55-59,2016,Johor,648
+Female,55-59,2016,Kedah,441
+Female,55-59,2016,Kelantan,331
+Female,55-59,2016,Melaka,134
+Female,55-59,2016,Negeri Sembilan,236
+Female,55-59,2016,Pahang,263
+Female,55-59,2016,Perak,527
+Female,55-59,2016,Perlis,69
+Female,55-59,2016,Sabah,407
+Female,55-59,2016,Sarawak,366
+Female,55-59,2016,Selangor,801
+Female,55-59,2016,Terengganu,190
+Female,55-59,2016,W.P. Kuala Lumpur,228
+Female,55-59,2016,W.P. Putrajaya,9
+Female,60-64,2016,Johor,730
+Female,60-64,2016,Kedah,531
+Female,60-64,2016,Kelantan,415
+Female,60-64,2016,Melaka,210
+Female,60-64,2016,Negeri Sembilan,237
+Female,60-64,2016,Pahang,351
+Female,60-64,2016,Perak,639
+Female,60-64,2016,Perlis,66
+Female,60-64,2016,Sabah,418
+Female,60-64,2016,Sarawak,385
+Female,60-64,2016,Selangor,1023
+Female,60-64,2016,Terengganu,270
+Female,60-64,2016,W.P. Kuala Lumpur,324
+Female,60-64,2016,W.P. Putrajaya,10
+Female,65-69,2016,Johor,867
+Female,65-69,2016,Kedah,614
+Female,65-69,2016,Kelantan,452
+Female,65-69,2016,Melaka,214
+Female,65-69,2016,Negeri Sembilan,297
+Female,65-69,2016,Pahang,431
+Female,65-69,2016,Perak,825
+Female,65-69,2016,Perlis,83
+Female,65-69,2016,Sabah,490
+Female,65-69,2016,Sarawak,481
+Female,65-69,2016,Selangor,1092
+Female,65-69,2016,Terengganu,259
+Female,65-69,2016,W.P. Kuala Lumpur,342
+Female,65-69,2016,W.P. Putrajaya,5
+Female,70-74,2016,Johor,790
+Female,70-74,2016,Kedah,631
+Female,70-74,2016,Kelantan,567
+Female,70-74,2016,Melaka,246
+Female,70-74,2016,Negeri Sembilan,264
+Female,70-74,2016,Pahang,375
+Female,70-74,2016,Perak,828
+Female,70-74,2016,Perlis,114
+Female,70-74,2016,Sabah,530
+Female,70-74,2016,Sarawak,663
+Female,70-74,2016,Selangor,1101
+Female,70-74,2016,Terengganu,336
+Female,70-74,2016,W.P. Kuala Lumpur,334
+Female,70-74,2016,W.P. Putrajaya,11
+Female,75-79,2016,Johor,988
+Female,75-79,2016,Kedah,877
+Female,75-79,2016,Kelantan,660
+Female,75-79,2016,Melaka,331
+Female,75-79,2016,Negeri Sembilan,381
+Female,75-79,2016,Pahang,484
+Female,75-79,2016,Perak,1019
+Female,75-79,2016,Perlis,113
+Female,75-79,2016,Sabah,678
+Female,75-79,2016,Sarawak,632
+Female,75-79,2016,Selangor,1347
+Female,75-79,2016,Terengganu,442
+Female,75-79,2016,W.P. Kuala Lumpur,406
+Female,75-79,2016,W.P. Putrajaya,7
+Female,80-84,2016,Johor,1088
+Female,80-84,2016,Kedah,842
+Female,80-84,2016,Kelantan,446
+Female,80-84,2016,Melaka,328
+Female,80-84,2016,Negeri Sembilan,388
+Female,80-84,2016,Pahang,367
+Female,80-84,2016,Perak,1211
+Female,80-84,2016,Perlis,129
+Female,80-84,2016,Sabah,674
+Female,80-84,2016,Sarawak,818
+Female,80-84,2016,Selangor,1395
+Female,80-84,2016,Terengganu,286
+Female,80-84,2016,W.P. Kuala Lumpur,450
+Female,80-84,2016,W.P. Putrajaya,7
+Female,85 +,2016,Johor,1376
+Female,85 +,2016,Kedah,945
+Female,85 +,2016,Kelantan,813
+Female,85 +,2016,Melaka,395
+Female,85 +,2016,Negeri Sembilan,512
+Female,85 +,2016,Pahang,437
+Female,85 +,2016,Perak,1432
+Female,85 +,2016,Perlis,156
+Female,85 +,2016,Sabah,702
+Female,85 +,2016,Sarawak,1009
+Female,85 +,2016,Selangor,1602
+Female,85 +,2016,Terengganu,449
+Female,85 +,2016,W.P. Kuala Lumpur,635
+Female,85 +,2016,W.P. Putrajaya,6
+Female,Under 1 year,2018,Johor,201
+Female,1-4,2018,Johor,12
+Female,1-4,2018,Johor,12
+Female,1-4,2018,Johor,11
+Female,1-4,2018,Johor,5
+Female,5-9,2018,Johor,37
+Female,10-14,2018,Johor,23
+Female,15-19,2018,Johor,40
+Female,20-24,2018,Johor,71
+Female,25-29,2018,Johor,68
+Female,30-34,2018,Johor,128
+Female,35-39,2018,Johor,158
+Female,40-44,2018,Johor,217
+Female,45-49,2018,Johor,304
+Female,50-54,2018,Johor,510
+Female,55-59,2018,Johor,603
+Female,60-64,2018,Johor,802
+Female,65-69,2018,Johor,952
+Female,70-74,2018,Johor,907
+Female,75-79,2018,Johor,1000
+Female,80-84,2018,Johor,1167
+Female,85 +,2018,Johor,1505
+Female,Under 1 year,2018,Kedah,93
+Female,1-4,2018,Kedah,8
+Female,1-4,2018,Kedah,5
+Female,1-4,2018,Kedah,6
+Female,1-4,2018,Kedah,7
+Female,5-9,2018,Kedah,18
+Female,10-14,2018,Kedah,20
+Female,15-19,2018,Kedah,39
+Female,20-24,2018,Kedah,52
+Female,25-29,2018,Kedah,64
+Female,30-34,2018,Kedah,81
+Female,35-39,2018,Kedah,123
+Female,40-44,2018,Kedah,152
+Female,45-49,2018,Kedah,227
+Female,50-54,2018,Kedah,310
+Female,55-59,2018,Kedah,494
+Female,60-64,2018,Kedah,576
+Female,65-69,2018,Kedah,660
+Female,70-74,2018,Kedah,674
+Female,75-79,2018,Kedah,789
+Female,80-84,2018,Kedah,973
+Female,85 +,2018,Kedah,965
+Female,Under 1 year,2018,Kelantan,115
+Female,1-4,2018,Kelantan,6
+Female,1-4,2018,Kelantan,8
+Female,1-4,2018,Kelantan,7
+Female,1-4,2018,Kelantan,2
+Female,5-9,2018,Kelantan,22
+Female,10-14,2018,Kelantan,26
+Female,15-19,2018,Kelantan,27
+Female,20-24,2018,Kelantan,51
+Female,25-29,2018,Kelantan,55
+Female,30-34,2018,Kelantan,83
+Female,35-39,2018,Kelantan,73
+Female,40-44,2018,Kelantan,109
+Female,45-49,2018,Kelantan,174
+Female,50-54,2018,Kelantan,268
+Female,55-59,2018,Kelantan,369
+Female,60-64,2018,Kelantan,456
+Female,65-69,2018,Kelantan,506
+Female,70-74,2018,Kelantan,553
+Female,75-79,2018,Kelantan,636
+Female,80-84,2018,Kelantan,659
+Female,85 +,2018,Kelantan,779
+Female,Under 1 year,2018,Melaka,39
+Female,1-4,2018,Melaka,1
+Female,1-4,2018,Melaka,0
+Female,1-4,2018,Melaka,1
+Female,1-4,2018,Melaka,0
+Female,5-9,2018,Melaka,3
+Female,10-14,2018,Melaka,1
+Female,15-19,2018,Melaka,12
+Female,20-24,2018,Melaka,14
+Female,25-29,2018,Melaka,16
+Female,30-34,2018,Melaka,28
+Female,35-39,2018,Melaka,44
+Female,40-44,2018,Melaka,54
+Female,45-49,2018,Melaka,79
+Female,50-54,2018,Melaka,129
+Female,55-59,2018,Melaka,142
+Female,60-64,2018,Melaka,226
+Female,65-69,2018,Melaka,223
+Female,70-74,2018,Melaka,249
+Female,75-79,2018,Melaka,302
+Female,80-84,2018,Melaka,363
+Female,85 +,2018,Melaka,402
+Female,Under 1 year,2018,Negeri Sembilan,73
+Female,1-4,2018,Negeri Sembilan,1
+Female,1-4,2018,Negeri Sembilan,3
+Female,1-4,2018,Negeri Sembilan,4
+Female,1-4,2018,Negeri Sembilan,3
+Female,5-9,2018,Negeri Sembilan,8
+Female,10-14,2018,Negeri Sembilan,2
+Female,15-19,2018,Negeri Sembilan,14
+Female,20-24,2018,Negeri Sembilan,26
+Female,25-29,2018,Negeri Sembilan,31
+Female,30-34,2018,Negeri Sembilan,38
+Female,35-39,2018,Negeri Sembilan,49
+Female,40-44,2018,Negeri Sembilan,64
+Female,45-49,2018,Negeri Sembilan,81
+Female,50-54,2018,Negeri Sembilan,160
+Female,55-59,2018,Negeri Sembilan,225
+Female,60-64,2018,Negeri Sembilan,317
+Female,65-69,2018,Negeri Sembilan,335
+Female,70-74,2018,Negeri Sembilan,301
+Female,75-79,2018,Negeri Sembilan,361
+Female,80-84,2018,Negeri Sembilan,448
+Female,85 +,2018,Negeri Sembilan,469
+Female,Under 1 year,2018,Pahang,88
+Female,1-4,2018,Pahang,5
+Female,1-4,2018,Pahang,8
+Female,1-4,2018,Pahang,7
+Female,1-4,2018,Pahang,2
+Female,5-9,2018,Pahang,14
+Female,10-14,2018,Pahang,18
+Female,15-19,2018,Pahang,20
+Female,20-24,2018,Pahang,23
+Female,25-29,2018,Pahang,46
+Female,30-34,2018,Pahang,65
+Female,35-39,2018,Pahang,92
+Female,40-44,2018,Pahang,93
+Female,45-49,2018,Pahang,156
+Female,50-54,2018,Pahang,188
+Female,55-59,2018,Pahang,254
+Female,60-64,2018,Pahang,376
+Female,65-69,2018,Pahang,445
+Female,70-74,2018,Pahang,455
+Female,75-79,2018,Pahang,444
+Female,80-84,2018,Pahang,477
+Female,85 +,2018,Pahang,445
+Female,Under 1 year,2018,Perak,111
+Female,1-4,2018,Perak,6
+Female,1-4,2018,Perak,9
+Female,1-4,2018,Perak,5
+Female,1-4,2018,Perak,5
+Female,5-9,2018,Perak,14
+Female,10-14,2018,Perak,20
+Female,15-19,2018,Perak,39
+Female,20-24,2018,Perak,60
+Female,25-29,2018,Perak,55
+Female,30-34,2018,Perak,71
+Female,35-39,2018,Perak,92
+Female,40-44,2018,Perak,142
+Female,45-49,2018,Perak,205
+Female,50-54,2018,Perak,371
+Female,55-59,2018,Perak,511
+Female,60-64,2018,Perak,652
+Female,65-69,2018,Perak,847
+Female,70-74,2018,Perak,903
+Female,75-79,2018,Perak,1130
+Female,80-84,2018,Perak,1217
+Female,85 +,2018,Perak,1553
+Female,Under 1 year,2018,Perlis,25
+Female,1-4,2018,Perlis,1
+Female,1-4,2018,Perlis,0
+Female,1-4,2018,Perlis,0
+Female,1-4,2018,Perlis,0
+Female,5-9,2018,Perlis,0
+Female,10-14,2018,Perlis,2
+Female,15-19,2018,Perlis,5
+Female,20-24,2018,Perlis,5
+Female,25-29,2018,Perlis,8
+Female,30-34,2018,Perlis,10
+Female,35-39,2018,Perlis,19
+Female,40-44,2018,Perlis,17
+Female,45-49,2018,Perlis,19
+Female,50-54,2018,Perlis,48
+Female,55-59,2018,Perlis,64
+Female,60-64,2018,Perlis,87
+Female,65-69,2018,Perlis,100
+Female,70-74,2018,Perlis,101
+Female,75-79,2018,Perlis,122
+Female,80-84,2018,Perlis,121
+Female,85 +,2018,Perlis,150
+Female,Under 1 year,2018,Sabah,237
+Female,1-4,2018,Sabah,15
+Female,1-4,2018,Sabah,26
+Female,1-4,2018,Sabah,8
+Female,1-4,2018,Sabah,17
+Female,5-9,2018,Sabah,42
+Female,10-14,2018,Sabah,33
+Female,15-19,2018,Sabah,52
+Female,20-24,2018,Sabah,96
+Female,25-29,2018,Sabah,107
+Female,30-34,2018,Sabah,104
+Female,35-39,2018,Sabah,126
+Female,40-44,2018,Sabah,150
+Female,45-49,2018,Sabah,178
+Female,50-54,2018,Sabah,297
+Female,55-59,2018,Sabah,441
+Female,60-64,2018,Sabah,451
+Female,65-69,2018,Sabah,481
+Female,70-74,2018,Sabah,610
+Female,75-79,2018,Sabah,769
+Female,80-84,2018,Sabah,723
+Female,85 +,2018,Sabah,807
+Female,Under 1 year,2018,Sarawak,114
+Female,1-4,2018,Sarawak,7
+Female,1-4,2018,Sarawak,10
+Female,1-4,2018,Sarawak,11
+Female,1-4,2018,Sarawak,9
+Female,5-9,2018,Sarawak,23
+Female,10-14,2018,Sarawak,26
+Female,15-19,2018,Sarawak,36
+Female,20-24,2018,Sarawak,44
+Female,25-29,2018,Sarawak,57
+Female,30-34,2018,Sarawak,77
+Female,35-39,2018,Sarawak,91
+Female,40-44,2018,Sarawak,141
+Female,45-49,2018,Sarawak,218
+Female,50-54,2018,Sarawak,292
+Female,55-59,2018,Sarawak,358
+Female,60-64,2018,Sarawak,475
+Female,65-69,2018,Sarawak,500
+Female,70-74,2018,Sarawak,694
+Female,75-79,2018,Sarawak,808
+Female,80-84,2018,Sarawak,796
+Female,85 +,2018,Sarawak,1179
+Female,Under 1 year,2018,Selangor,300
+Female,1-4,2018,Selangor,16
+Female,1-4,2018,Selangor,25
+Female,1-4,2018,Selangor,14
+Female,1-4,2018,Selangor,18
+Female,5-9,2018,Selangor,37
+Female,10-14,2018,Selangor,42
+Female,15-19,2018,Selangor,76
+Female,20-24,2018,Selangor,81
+Female,25-29,2018,Selangor,119
+Female,30-34,2018,Selangor,137
+Female,35-39,2018,Selangor,232
+Female,40-44,2018,Selangor,270
+Female,45-49,2018,Selangor,404
+Female,50-54,2018,Selangor,644
+Female,55-59,2018,Selangor,891
+Female,60-64,2018,Selangor,1105
+Female,65-69,2018,Selangor,1214
+Female,70-74,2018,Selangor,1283
+Female,75-79,2018,Selangor,1399
+Female,80-84,2018,Selangor,1497
+Female,85 +,2018,Selangor,1754
+Female,Under 1 year,2018,Terengganu,77
+Female,1-4,2018,Terengganu,4
+Female,1-4,2018,Terengganu,5
+Female,1-4,2018,Terengganu,4
+Female,1-4,2018,Terengganu,3
+Female,5-9,2018,Terengganu,15
+Female,10-14,2018,Terengganu,14
+Female,15-19,2018,Terengganu,27
+Female,20-24,2018,Terengganu,27
+Female,25-29,2018,Terengganu,45
+Female,30-34,2018,Terengganu,40
+Female,35-39,2018,Terengganu,36
+Female,40-44,2018,Terengganu,74
+Female,45-49,2018,Terengganu,102
+Female,50-54,2018,Terengganu,173
+Female,55-59,2018,Terengganu,239
+Female,60-64,2018,Terengganu,320
+Female,65-69,2018,Terengganu,291
+Female,70-74,2018,Terengganu,349
+Female,75-79,2018,Terengganu,390
+Female,80-84,2018,Terengganu,445
+Female,85 +,2018,Terengganu,367
+Female,Under 1 year,2018,W.P. Kuala Lumpur,68
+Female,1-4,2018,W.P. Kuala Lumpur,2
+Female,1-4,2018,W.P. Kuala Lumpur,10
+Female,1-4,2018,W.P. Kuala Lumpur,0
+Female,1-4,2018,W.P. Kuala Lumpur,1
+Female,5-9,2018,W.P. Kuala Lumpur,3
+Female,10-14,2018,W.P. Kuala Lumpur,6
+Female,15-19,2018,W.P. Kuala Lumpur,11
+Female,20-24,2018,W.P. Kuala Lumpur,23
+Female,25-29,2018,W.P. Kuala Lumpur,17
+Female,30-34,2018,W.P. Kuala Lumpur,44
+Female,35-39,2018,W.P. Kuala Lumpur,54
+Female,40-44,2018,W.P. Kuala Lumpur,87
+Female,45-49,2018,W.P. Kuala Lumpur,109
+Female,50-54,2018,W.P. Kuala Lumpur,163
+Female,55-59,2018,W.P. Kuala Lumpur,265
+Female,60-64,2018,W.P. Kuala Lumpur,313
+Female,65-69,2018,W.P. Kuala Lumpur,380
+Female,70-74,2018,W.P. Kuala Lumpur,394
+Female,75-79,2018,W.P. Kuala Lumpur,433
+Female,80-84,2018,W.P. Kuala Lumpur,513
+Female,85 +,2018,W.P. Kuala Lumpur,660
+Female,Under 1 year,2018,W.P. Putrajaya,10
+Female,1-4,2018,W.P. Putrajaya,0
+Female,1-4,2018,W.P. Putrajaya,1
+Female,1-4,2018,W.P. Putrajaya,0
+Female,1-4,2018,W.P. Putrajaya,0
+Female,5-9,2018,W.P. Putrajaya,1
+Female,10-14,2018,W.P. Putrajaya,1
+Female,15-19,2018,W.P. Putrajaya,0
+Female,20-24,2018,W.P. Putrajaya,0
+Female,25-29,2018,W.P. Putrajaya,1
+Female,30-34,2018,W.P. Putrajaya,0
+Female,35-39,2018,W.P. Putrajaya,4
+Female,40-44,2018,W.P. Putrajaya,3
+Female,45-49,2018,W.P. Putrajaya,7
+Female,50-54,2018,W.P. Putrajaya,4
+Female,55-59,2018,W.P. Putrajaya,10
+Female,60-64,2018,W.P. Putrajaya,11
+Female,65-69,2018,W.P. Putrajaya,7
+Female,70-74,2018,W.P. Putrajaya,13
+Female,75-79,2018,W.P. Putrajaya,7
+Female,80-84,2018,W.P. Putrajaya,8
+Female,85 +,2018,W.P. Putrajaya,10
+Male,Under 1 year,2018,Johor,221
+Male,1-4,2018,Johor,12
+Male,1-4,2018,Johor,18
+Male,1-4,2018,Johor,14
+Male,1-4,2018,Johor,9
+Male,5-9,2018,Johor,31
+Male,10-14,2018,Johor,48
+Male,15-19,2018,Johor,179
+Male,20-24,2018,Johor,229
+Male,25-29,2018,Johor,201
+Male,30-34,2018,Johor,272
+Male,35-39,2018,Johor,348
+Male,40-44,2018,Johor,471
+Male,45-49,2018,Johor,639
+Male,50-54,2018,Johor,962
+Male,55-59,2018,Johor,1219
+Male,60-64,2018,Johor,1379
+Male,65-69,2018,Johor,1520
+Male,70-74,2018,Johor,1497
+Male,75-79,2018,Johor,1221
+Male,80-84,2018,Johor,1071
+Male,85 +,2018,Johor,823
+Male,Under 1 year,2018,Kedah,136
+Male,1-4,2018,Kedah,7
+Male,1-4,2018,Kedah,13
+Male,1-4,2018,Kedah,5
+Male,1-4,2018,Kedah,6
+Male,5-9,2018,Kedah,36
+Male,10-14,2018,Kedah,29
+Male,15-19,2018,Kedah,127
+Male,20-24,2018,Kedah,134
+Male,25-29,2018,Kedah,152
+Male,30-34,2018,Kedah,164
+Male,35-39,2018,Kedah,217
+Male,40-44,2018,Kedah,305
+Male,45-49,2018,Kedah,431
+Male,50-54,2018,Kedah,546
+Male,55-59,2018,Kedah,774
+Male,60-64,2018,Kedah,904
+Male,65-69,2018,Kedah,1005
+Male,70-74,2018,Kedah,935
+Male,75-79,2018,Kedah,912
+Male,80-84,2018,Kedah,854
+Male,85 +,2018,Kedah,524
+Male,Under 1 year,2018,Kelantan,173
+Male,1-4,2018,Kelantan,4
+Male,1-4,2018,Kelantan,13
+Male,1-4,2018,Kelantan,10
+Male,1-4,2018,Kelantan,5
+Male,5-9,2018,Kelantan,29
+Male,10-14,2018,Kelantan,44
+Male,15-19,2018,Kelantan,108
+Male,20-24,2018,Kelantan,122
+Male,25-29,2018,Kelantan,120
+Male,30-34,2018,Kelantan,140
+Male,35-39,2018,Kelantan,178
+Male,40-44,2018,Kelantan,211
+Male,45-49,2018,Kelantan,317
+Male,50-54,2018,Kelantan,404
+Male,55-59,2018,Kelantan,531
+Male,60-64,2018,Kelantan,687
+Male,65-69,2018,Kelantan,713
+Male,70-74,2018,Kelantan,853
+Male,75-79,2018,Kelantan,614
+Male,80-84,2018,Kelantan,642
+Male,85 +,2018,Kelantan,414
+Male,Under 1 year,2018,Melaka,71
+Male,1-4,2018,Melaka,3
+Male,1-4,2018,Melaka,1
+Male,1-4,2018,Melaka,2
+Male,1-4,2018,Melaka,2
+Male,5-9,2018,Melaka,7
+Male,10-14,2018,Melaka,13
+Male,15-19,2018,Melaka,45
+Male,20-24,2018,Melaka,67
+Male,25-29,2018,Melaka,43
+Male,30-34,2018,Melaka,58
+Male,35-39,2018,Melaka,87
+Male,40-44,2018,Melaka,92
+Male,45-49,2018,Melaka,149
+Male,50-54,2018,Melaka,236
+Male,55-59,2018,Melaka,270
+Male,60-64,2018,Melaka,350
+Male,65-69,2018,Melaka,365
+Male,70-74,2018,Melaka,357
+Male,75-79,2018,Melaka,332
+Male,80-84,2018,Melaka,305
+Male,85 +,2018,Melaka,224
+Male,Under 1 year,2018,Negeri Sembilan,89
+Male,1-4,2018,Negeri Sembilan,1
+Male,1-4,2018,Negeri Sembilan,4
+Male,1-4,2018,Negeri Sembilan,6
+Male,1-4,2018,Negeri Sembilan,5
+Male,5-9,2018,Negeri Sembilan,9
+Male,10-14,2018,Negeri Sembilan,13
+Male,15-19,2018,Negeri Sembilan,62
+Male,20-24,2018,Negeri Sembilan,79
+Male,25-29,2018,Negeri Sembilan,79
+Male,30-34,2018,Negeri Sembilan,102
+Male,35-39,2018,Negeri Sembilan,125
+Male,40-44,2018,Negeri Sembilan,139
+Male,45-49,2018,Negeri Sembilan,198
+Male,50-54,2018,Negeri Sembilan,289
+Male,55-59,2018,Negeri Sembilan,417
+Male,60-64,2018,Negeri Sembilan,509
+Male,65-69,2018,Negeri Sembilan,529
+Male,70-74,2018,Negeri Sembilan,450
+Male,75-79,2018,Negeri Sembilan,456
+Male,80-84,2018,Negeri Sembilan,397
+Male,85 +,2018,Negeri Sembilan,327
+Male,Under 1 year,2018,Pahang,109
+Male,1-4,2018,Pahang,5
+Male,1-4,2018,Pahang,14
+Male,1-4,2018,Pahang,3
+Male,1-4,2018,Pahang,3
+Male,5-9,2018,Pahang,26
+Male,10-14,2018,Pahang,29
+Male,15-19,2018,Pahang,92
+Male,20-24,2018,Pahang,104
+Male,25-29,2018,Pahang,113
+Male,30-34,2018,Pahang,136
+Male,35-39,2018,Pahang,177
+Male,40-44,2018,Pahang,229
+Male,45-49,2018,Pahang,268
+Male,50-54,2018,Pahang,383
+Male,55-59,2018,Pahang,508
+Male,60-64,2018,Pahang,596
+Male,65-69,2018,Pahang,636
+Male,70-74,2018,Pahang,748
+Male,75-79,2018,Pahang,596
+Male,80-84,2018,Pahang,511
+Male,85 +,2018,Pahang,239
+Male,Under 1 year,2018,Perak,112
+Male,1-4,2018,Perak,7
+Male,1-4,2018,Perak,13
+Male,1-4,2018,Perak,6
+Male,1-4,2018,Perak,10
+Male,5-9,2018,Perak,31
+Male,10-14,2018,Perak,38
+Male,15-19,2018,Perak,110
+Male,20-24,2018,Perak,148
+Male,25-29,2018,Perak,125
+Male,30-34,2018,Perak,198
+Male,35-39,2018,Perak,271
+Male,40-44,2018,Perak,313
+Male,45-49,2018,Perak,504
+Male,50-54,2018,Perak,710
+Male,55-59,2018,Perak,975
+Male,60-64,2018,Perak,1137
+Male,65-69,2018,Perak,1351
+Male,70-74,2018,Perak,1207
+Male,75-79,2018,Perak,1300
+Male,80-84,2018,Perak,1122
+Male,85 +,2018,Perak,894
+Male,Under 1 year,2018,Perlis,14
+Male,1-4,2018,Perlis,1
+Male,1-4,2018,Perlis,0
+Male,1-4,2018,Perlis,1
+Male,1-4,2018,Perlis,3
+Male,5-9,2018,Perlis,4
+Male,10-14,2018,Perlis,10
+Male,15-19,2018,Perlis,23
+Male,20-24,2018,Perlis,13
+Male,25-29,2018,Perlis,19
+Male,30-34,2018,Perlis,25
+Male,35-39,2018,Perlis,37
+Male,40-44,2018,Perlis,38
+Male,45-49,2018,Perlis,42
+Male,50-54,2018,Perlis,81
+Male,55-59,2018,Perlis,79
+Male,60-64,2018,Perlis,115
+Male,65-69,2018,Perlis,139
+Male,70-74,2018,Perlis,124
+Male,75-79,2018,Perlis,156
+Male,80-84,2018,Perlis,120
+Male,85 +,2018,Perlis,94
+Male,Under 1 year,2018,Sabah,297
+Male,1-4,2018,Sabah,18
+Male,1-4,2018,Sabah,25
+Male,1-4,2018,Sabah,11
+Male,1-4,2018,Sabah,17
+Male,5-9,2018,Sabah,69
+Male,10-14,2018,Sabah,66
+Male,15-19,2018,Sabah,113
+Male,20-24,2018,Sabah,159
+Male,25-29,2018,Sabah,180
+Male,30-34,2018,Sabah,234
+Male,35-39,2018,Sabah,227
+Male,40-44,2018,Sabah,289
+Male,45-49,2018,Sabah,405
+Male,50-54,2018,Sabah,581
+Male,55-59,2018,Sabah,792
+Male,60-64,2018,Sabah,823
+Male,65-69,2018,Sabah,834
+Male,70-74,2018,Sabah,784
+Male,75-79,2018,Sabah,919
+Male,80-84,2018,Sabah,729
+Male,85 +,2018,Sabah,598
+Male,Under 1 year,2018,Sarawak,148
+Male,1-4,2018,Sarawak,11
+Male,1-4,2018,Sarawak,17
+Male,1-4,2018,Sarawak,14
+Male,1-4,2018,Sarawak,6
+Male,5-9,2018,Sarawak,37
+Male,10-14,2018,Sarawak,39
+Male,15-19,2018,Sarawak,92
+Male,20-24,2018,Sarawak,127
+Male,25-29,2018,Sarawak,141
+Male,30-34,2018,Sarawak,168
+Male,35-39,2018,Sarawak,250
+Male,40-44,2018,Sarawak,301
+Male,45-49,2018,Sarawak,369
+Male,50-54,2018,Sarawak,538
+Male,55-59,2018,Sarawak,672
+Male,60-64,2018,Sarawak,789
+Male,65-69,2018,Sarawak,794
+Male,70-74,2018,Sarawak,943
+Male,75-79,2018,Sarawak,894
+Male,80-84,2018,Sarawak,685
+Male,85 +,2018,Sarawak,827
+Male,Under 1 year,2018,Selangor,362
+Male,1-4,2018,Selangor,20
+Male,1-4,2018,Selangor,19
+Male,1-4,2018,Selangor,12
+Male,1-4,2018,Selangor,11
+Male,5-9,2018,Selangor,56
+Male,10-14,2018,Selangor,58
+Male,15-19,2018,Selangor,209
+Male,20-24,2018,Selangor,297
+Male,25-29,2018,Selangor,285
+Male,30-34,2018,Selangor,377
+Male,35-39,2018,Selangor,482
+Male,40-44,2018,Selangor,678
+Male,45-49,2018,Selangor,873
+Male,50-54,2018,Selangor,1304
+Male,55-59,2018,Selangor,1614
+Male,60-64,2018,Selangor,1816
+Male,65-69,2018,Selangor,1835
+Male,70-74,2018,Selangor,1618
+Male,75-79,2018,Selangor,1610
+Male,80-84,2018,Selangor,1267
+Male,85 +,2018,Selangor,1026
+Male,Under 1 year,2018,Terengganu,96
+Male,1-4,2018,Terengganu,4
+Male,1-4,2018,Terengganu,8
+Male,1-4,2018,Terengganu,5
+Male,1-4,2018,Terengganu,1
+Male,5-9,2018,Terengganu,20
+Male,10-14,2018,Terengganu,22
+Male,15-19,2018,Terengganu,69
+Male,20-24,2018,Terengganu,70
+Male,25-29,2018,Terengganu,71
+Male,30-34,2018,Terengganu,109
+Male,35-39,2018,Terengganu,142
+Male,40-44,2018,Terengganu,202
+Male,45-49,2018,Terengganu,231
+Male,50-54,2018,Terengganu,266
+Male,55-59,2018,Terengganu,403
+Male,60-64,2018,Terengganu,458
+Male,65-69,2018,Terengganu,429
+Male,70-74,2018,Terengganu,523
+Male,75-79,2018,Terengganu,396
+Male,80-84,2018,Terengganu,308
+Male,85 +,2018,Terengganu,219
+Male,Under 1 year,2018,W.P. Kuala Lumpur,82
+Male,1-4,2018,W.P. Kuala Lumpur,3
+Male,1-4,2018,W.P. Kuala Lumpur,6
+Male,1-4,2018,W.P. Kuala Lumpur,4
+Male,1-4,2018,W.P. Kuala Lumpur,1
+Male,5-9,2018,W.P. Kuala Lumpur,8
+Male,10-14,2018,W.P. Kuala Lumpur,13
+Male,15-19,2018,W.P. Kuala Lumpur,50
+Male,20-24,2018,W.P. Kuala Lumpur,72
+Male,25-29,2018,W.P. Kuala Lumpur,77
+Male,30-34,2018,W.P. Kuala Lumpur,80
+Male,35-39,2018,W.P. Kuala Lumpur,149
+Male,40-44,2018,W.P. Kuala Lumpur,171
+Male,45-49,2018,W.P. Kuala Lumpur,234
+Male,50-54,2018,W.P. Kuala Lumpur,352
+Male,55-59,2018,W.P. Kuala Lumpur,492
+Male,60-64,2018,W.P. Kuala Lumpur,577
+Male,65-69,2018,W.P. Kuala Lumpur,606
+Male,70-74,2018,W.P. Kuala Lumpur,514
+Male,75-79,2018,W.P. Kuala Lumpur,572
+Male,80-84,2018,W.P. Kuala Lumpur,448
+Male,85 +,2018,W.P. Kuala Lumpur,418
+Male,Under 1 year,2018,W.P. Putrajaya,12
+Male,1-4,2018,W.P. Putrajaya,2
+Male,1-4,2018,W.P. Putrajaya,2
+Male,1-4,2018,W.P. Putrajaya,0
+Male,1-4,2018,W.P. Putrajaya,0
+Male,5-9,2018,W.P. Putrajaya,1
+Male,10-14,2018,W.P. Putrajaya,2
+Male,15-19,2018,W.P. Putrajaya,2
+Male,20-24,2018,W.P. Putrajaya,2
+Male,25-29,2018,W.P. Putrajaya,1
+Male,30-34,2018,W.P. Putrajaya,4
+Male,35-39,2018,W.P. Putrajaya,7
+Male,40-44,2018,W.P. Putrajaya,7
+Male,45-49,2018,W.P. Putrajaya,5
+Male,50-54,2018,W.P. Putrajaya,10
+Male,55-59,2018,W.P. Putrajaya,12
+Male,60-64,2018,W.P. Putrajaya,13
+Male,65-69,2018,W.P. Putrajaya,9
+Male,70-74,2018,W.P. Putrajaya,11
+Male,75-79,2018,W.P. Putrajaya,10
+Male,80-84,2018,W.P. Putrajaya,6
+Male,85 +,2018,W.P. Putrajaya,2
+Female,Under 1 year,2017,Johor,187
+Female,1-4,2017,Johor,6
+Female,1-4,2017,Johor,13
+Female,1-4,2017,Johor,7
+Female,1-4,2017,Johor,8
+Female,5-9,2017,Johor,23
+Female,10-14,2017,Johor,22
+Female,15-19,2017,Johor,51
+Female,20-24,2017,Johor,64
+Female,25-29,2017,Johor,81
+Female,30-34,2017,Johor,105
+Female,35-39,2017,Johor,156
+Female,40-44,2017,Johor,226
+Female,45-49,2017,Johor,313
+Female,50-54,2017,Johor,503
+Female,55-59,2017,Johor,642
+Female,60-64,2017,Johor,786
+Female,65-69,2017,Johor,924
+Female,70-74,2017,Johor,935
+Female,75-79,2017,Johor,1054
+Female,80-84,2017,Johor,1100
+Female,85 +,2017,Johor,1378
+Female,Under 1 year,2017,Kedah,109
+Female,1-4,2017,Kedah,6
+Female,1-4,2017,Kedah,9
+Female,1-4,2017,Kedah,5
+Female,1-4,2017,Kedah,4
+Female,5-9,2017,Kedah,20
+Female,10-14,2017,Kedah,28
+Female,15-19,2017,Kedah,27
+Female,20-24,2017,Kedah,52
+Female,25-29,2017,Kedah,48
+Female,30-34,2017,Kedah,74
+Female,35-39,2017,Kedah,103
+Female,40-44,2017,Kedah,101
+Female,45-49,2017,Kedah,236
+Female,50-54,2017,Kedah,325
+Female,55-59,2017,Kedah,506
+Female,60-64,2017,Kedah,547
+Female,65-69,2017,Kedah,717
+Female,70-74,2017,Kedah,633
+Female,75-79,2017,Kedah,854
+Female,80-84,2017,Kedah,916
+Female,85 +,2017,Kedah,963
+Female,Under 1 year,2017,Kelantan,142
+Female,1-4,2017,Kelantan,8
+Female,1-4,2017,Kelantan,9
+Female,1-4,2017,Kelantan,7
+Female,1-4,2017,Kelantan,4
+Female,5-9,2017,Kelantan,25
+Female,10-14,2017,Kelantan,32
+Female,15-19,2017,Kelantan,25
+Female,20-24,2017,Kelantan,37
+Female,25-29,2017,Kelantan,60
+Female,30-34,2017,Kelantan,81
+Female,35-39,2017,Kelantan,69
+Female,40-44,2017,Kelantan,124
+Female,45-49,2017,Kelantan,180
+Female,50-54,2017,Kelantan,256
+Female,55-59,2017,Kelantan,353
+Female,60-64,2017,Kelantan,418
+Female,65-69,2017,Kelantan,461
+Female,70-74,2017,Kelantan,588
+Female,75-79,2017,Kelantan,696
+Female,80-84,2017,Kelantan,557
+Female,85 +,2017,Kelantan,787
+Female,Under 1 year,2017,Melaka,40
+Female,1-4,2017,Melaka,3
+Female,1-4,2017,Melaka,1
+Female,1-4,2017,Melaka,3
+Female,1-4,2017,Melaka,1
+Female,5-9,2017,Melaka,14
+Female,10-14,2017,Melaka,9
+Female,15-19,2017,Melaka,6
+Female,20-24,2017,Melaka,15
+Female,25-29,2017,Melaka,21
+Female,30-34,2017,Melaka,28
+Female,35-39,2017,Melaka,39
+Female,40-44,2017,Melaka,40
+Female,45-49,2017,Melaka,65
+Female,50-54,2017,Melaka,116
+Female,55-59,2017,Melaka,189
+Female,60-64,2017,Melaka,222
+Female,65-69,2017,Melaka,255
+Female,70-74,2017,Melaka,282
+Female,75-79,2017,Melaka,321
+Female,80-84,2017,Melaka,367
+Female,85 +,2017,Melaka,394
+Female,Under 1 year,2017,Negeri Sembilan,57
+Female,1-4,2017,Negeri Sembilan,1
+Female,1-4,2017,Negeri Sembilan,7
+Female,1-4,2017,Negeri Sembilan,0
+Female,1-4,2017,Negeri Sembilan,2
+Female,5-9,2017,Negeri Sembilan,11
+Female,10-14,2017,Negeri Sembilan,5
+Female,15-19,2017,Negeri Sembilan,18
+Female,20-24,2017,Negeri Sembilan,23
+Female,25-29,2017,Negeri Sembilan,22
+Female,30-34,2017,Negeri Sembilan,30
+Female,35-39,2017,Negeri Sembilan,45
+Female,40-44,2017,Negeri Sembilan,53
+Female,45-49,2017,Negeri Sembilan,76
+Female,50-54,2017,Negeri Sembilan,167
+Female,55-59,2017,Negeri Sembilan,255
+Female,60-64,2017,Negeri Sembilan,299
+Female,65-69,2017,Negeri Sembilan,319
+Female,70-74,2017,Negeri Sembilan,273
+Female,75-79,2017,Negeri Sembilan,394
+Female,80-84,2017,Negeri Sembilan,436
+Female,85 +,2017,Negeri Sembilan,518
+Female,Under 1 year,2017,Pahang,82
+Female,1-4,2017,Pahang,3
+Female,1-4,2017,Pahang,7
+Female,1-4,2017,Pahang,9
+Female,1-4,2017,Pahang,4
+Female,5-9,2017,Pahang,13
+Female,10-14,2017,Pahang,18
+Female,15-19,2017,Pahang,27
+Female,20-24,2017,Pahang,31
+Female,25-29,2017,Pahang,59
+Female,30-34,2017,Pahang,63
+Female,35-39,2017,Pahang,55
+Female,40-44,2017,Pahang,68
+Female,45-49,2017,Pahang,160
+Female,50-54,2017,Pahang,223
+Female,55-59,2017,Pahang,297
+Female,60-64,2017,Pahang,360
+Female,65-69,2017,Pahang,456
+Female,70-74,2017,Pahang,433
+Female,75-79,2017,Pahang,473
+Female,80-84,2017,Pahang,485
+Female,85 +,2017,Pahang,437
+Female,Under 1 year,2017,Perak,108
+Female,1-4,2017,Perak,3
+Female,1-4,2017,Perak,9
+Female,1-4,2017,Perak,7
+Female,1-4,2017,Perak,6
+Female,5-9,2017,Perak,20
+Female,10-14,2017,Perak,25
+Female,15-19,2017,Perak,37
+Female,20-24,2017,Perak,41
+Female,25-29,2017,Perak,56
+Female,30-34,2017,Perak,84
+Female,35-39,2017,Perak,85
+Female,40-44,2017,Perak,133
+Female,45-49,2017,Perak,218
+Female,50-54,2017,Perak,346
+Female,55-59,2017,Perak,493
+Female,60-64,2017,Perak,662
+Female,65-69,2017,Perak,769
+Female,70-74,2017,Perak,846
+Female,75-79,2017,Perak,1060
+Female,80-84,2017,Perak,1179
+Female,85 +,2017,Perak,1440
+Female,Under 1 year,2017,Perlis,10
+Female,1-4,2017,Perlis,1
+Female,1-4,2017,Perlis,1
+Female,1-4,2017,Perlis,0
+Female,1-4,2017,Perlis,1
+Female,5-9,2017,Perlis,4
+Female,10-14,2017,Perlis,3
+Female,15-19,2017,Perlis,4
+Female,20-24,2017,Perlis,5
+Female,25-29,2017,Perlis,6
+Female,30-34,2017,Perlis,12
+Female,35-39,2017,Perlis,14
+Female,40-44,2017,Perlis,22
+Female,45-49,2017,Perlis,30
+Female,50-54,2017,Perlis,38
+Female,55-59,2017,Perlis,69
+Female,60-64,2017,Perlis,100
+Female,65-69,2017,Perlis,115
+Female,70-74,2017,Perlis,112
+Female,75-79,2017,Perlis,107
+Female,80-84,2017,Perlis,109
+Female,85 +,2017,Perlis,141
+Female,Under 1 year,2017,Sabah,205
+Female,1-4,2017,Sabah,17
+Female,1-4,2017,Sabah,26
+Female,1-4,2017,Sabah,8
+Female,1-4,2017,Sabah,15
+Female,5-9,2017,Sabah,42
+Female,10-14,2017,Sabah,32
+Female,15-19,2017,Sabah,43
+Female,20-24,2017,Sabah,82
+Female,25-29,2017,Sabah,98
+Female,30-34,2017,Sabah,114
+Female,35-39,2017,Sabah,140
+Female,40-44,2017,Sabah,189
+Female,45-49,2017,Sabah,229
+Female,50-54,2017,Sabah,316
+Female,55-59,2017,Sabah,424
+Female,60-64,2017,Sabah,462
+Female,65-69,2017,Sabah,504
+Female,70-74,2017,Sabah,613
+Female,75-79,2017,Sabah,781
+Female,80-84,2017,Sabah,744
+Female,85 +,2017,Sabah,702
+Female,Under 1 year,2017,Sarawak,102
+Female,1-4,2017,Sarawak,8
+Female,1-4,2017,Sarawak,8
+Female,1-4,2017,Sarawak,7
+Female,1-4,2017,Sarawak,4
+Female,5-9,2017,Sarawak,22
+Female,10-14,2017,Sarawak,17
+Female,15-19,2017,Sarawak,36
+Female,20-24,2017,Sarawak,47
+Female,25-29,2017,Sarawak,48
+Female,30-34,2017,Sarawak,71
+Female,35-39,2017,Sarawak,98
+Female,40-44,2017,Sarawak,139
+Female,45-49,2017,Sarawak,213
+Female,50-54,2017,Sarawak,269
+Female,55-59,2017,Sarawak,326
+Female,60-64,2017,Sarawak,422
+Female,65-69,2017,Sarawak,522
+Female,70-74,2017,Sarawak,649
+Female,75-79,2017,Sarawak,782
+Female,80-84,2017,Sarawak,742
+Female,85 +,2017,Sarawak,1021
+Female,Under 1 year,2017,Selangor,291
+Female,1-4,2017,Selangor,17
+Female,1-4,2017,Selangor,18
+Female,1-4,2017,Selangor,11
+Female,1-4,2017,Selangor,14
+Female,5-9,2017,Selangor,40
+Female,10-14,2017,Selangor,49
+Female,15-19,2017,Selangor,76
+Female,20-24,2017,Selangor,101
+Female,25-29,2017,Selangor,114
+Female,30-34,2017,Selangor,164
+Female,35-39,2017,Selangor,222
+Female,40-44,2017,Selangor,320
+Female,45-49,2017,Selangor,420
+Female,50-54,2017,Selangor,611
+Female,55-59,2017,Selangor,843
+Female,60-64,2017,Selangor,1064
+Female,65-69,2017,Selangor,1189
+Female,70-74,2017,Selangor,1226
+Female,75-79,2017,Selangor,1412
+Female,80-84,2017,Selangor,1437
+Female,85 +,2017,Selangor,1677
+Female,Under 1 year,2017,Terengganu,73
+Female,1-4,2017,Terengganu,2
+Female,1-4,2017,Terengganu,8
+Female,1-4,2017,Terengganu,3
+Female,1-4,2017,Terengganu,3
+Female,5-9,2017,Terengganu,11
+Female,10-14,2017,Terengganu,15
+Female,15-19,2017,Terengganu,27
+Female,20-24,2017,Terengganu,27
+Female,25-29,2017,Terengganu,42
+Female,30-34,2017,Terengganu,45
+Female,35-39,2017,Terengganu,47
+Female,40-44,2017,Terengganu,91
+Female,45-49,2017,Terengganu,117
+Female,50-54,2017,Terengganu,170
+Female,55-59,2017,Terengganu,252
+Female,60-64,2017,Terengganu,270
+Female,65-69,2017,Terengganu,271
+Female,70-74,2017,Terengganu,361
+Female,75-79,2017,Terengganu,390
+Female,80-84,2017,Terengganu,381
+Female,85 +,2017,Terengganu,412
+Female,Under 1 year,2017,W.P. Kuala Lumpur,75
+Female,1-4,2017,W.P. Kuala Lumpur,2
+Female,1-4,2017,W.P. Kuala Lumpur,6
+Female,1-4,2017,W.P. Kuala Lumpur,4
+Female,1-4,2017,W.P. Kuala Lumpur,1
+Female,5-9,2017,W.P. Kuala Lumpur,5
+Female,10-14,2017,W.P. Kuala Lumpur,9
+Female,15-19,2017,W.P. Kuala Lumpur,25
+Female,20-24,2017,W.P. Kuala Lumpur,27
+Female,25-29,2017,W.P. Kuala Lumpur,24
+Female,30-34,2017,W.P. Kuala Lumpur,36
+Female,35-39,2017,W.P. Kuala Lumpur,77
+Female,40-44,2017,W.P. Kuala Lumpur,58
+Female,45-49,2017,W.P. Kuala Lumpur,112
+Female,50-54,2017,W.P. Kuala Lumpur,165
+Female,55-59,2017,W.P. Kuala Lumpur,242
+Female,60-64,2017,W.P. Kuala Lumpur,335
+Female,65-69,2017,W.P. Kuala Lumpur,330
+Female,70-74,2017,W.P. Kuala Lumpur,344
+Female,75-79,2017,W.P. Kuala Lumpur,409
+Female,80-84,2017,W.P. Kuala Lumpur,526
+Female,85 +,2017,W.P. Kuala Lumpur,668
+Female,Under 1 year,2017,W.P. Putrajaya,12
+Female,1-4,2017,W.P. Putrajaya,0
+Female,1-4,2017,W.P. Putrajaya,0
+Female,1-4,2017,W.P. Putrajaya,1
+Female,1-4,2017,W.P. Putrajaya,0
+Female,5-9,2017,W.P. Putrajaya,4
+Female,10-14,2017,W.P. Putrajaya,0
+Female,15-19,2017,W.P. Putrajaya,2
+Female,20-24,2017,W.P. Putrajaya,1
+Female,25-29,2017,W.P. Putrajaya,1
+Female,30-34,2017,W.P. Putrajaya,1
+Female,35-39,2017,W.P. Putrajaya,8
+Female,40-44,2017,W.P. Putrajaya,2
+Female,45-49,2017,W.P. Putrajaya,5
+Female,50-54,2017,W.P. Putrajaya,5
+Female,55-59,2017,W.P. Putrajaya,11
+Female,60-64,2017,W.P. Putrajaya,11
+Female,65-69,2017,W.P. Putrajaya,9
+Female,70-74,2017,W.P. Putrajaya,6
+Female,75-79,2017,W.P. Putrajaya,10
+Female,80-84,2017,W.P. Putrajaya,8
+Female,85 +,2017,W.P. Putrajaya,9
+Male,Under 1 year,2017,Johor,226
+Male,1-4,2017,Johor,17
+Male,1-4,2017,Johor,18
+Male,1-4,2017,Johor,11
+Male,1-4,2017,Johor,10
+Male,5-9,2017,Johor,41
+Male,10-14,2017,Johor,63
+Male,15-19,2017,Johor,185
+Male,20-24,2017,Johor,233
+Male,25-29,2017,Johor,224
+Male,30-34,2017,Johor,282
+Male,35-39,2017,Johor,325
+Male,40-44,2017,Johor,482
+Male,45-49,2017,Johor,627
+Male,50-54,2017,Johor,846
+Male,55-59,2017,Johor,1182
+Male,60-64,2017,Johor,1350
+Male,65-69,2017,Johor,1436
+Male,70-74,2017,Johor,1354
+Male,75-79,2017,Johor,1274
+Male,80-84,2017,Johor,1043
+Male,85 +,2017,Johor,847
+Male,Under 1 year,2017,Kedah,106
+Male,1-4,2017,Kedah,7
+Male,1-4,2017,Kedah,5
+Male,1-4,2017,Kedah,12
+Male,1-4,2017,Kedah,5
+Male,5-9,2017,Kedah,27
+Male,10-14,2017,Kedah,25
+Male,15-19,2017,Kedah,148
+Male,20-24,2017,Kedah,140
+Male,25-29,2017,Kedah,139
+Male,30-34,2017,Kedah,197
+Male,35-39,2017,Kedah,212
+Male,40-44,2017,Kedah,288
+Male,45-49,2017,Kedah,368
+Male,50-54,2017,Kedah,571
+Male,55-59,2017,Kedah,754
+Male,60-64,2017,Kedah,909
+Male,65-69,2017,Kedah,959
+Male,70-74,2017,Kedah,847
+Male,75-79,2017,Kedah,981
+Male,80-84,2017,Kedah,782
+Male,85 +,2017,Kedah,567
+Male,Under 1 year,2017,Kelantan,160
+Male,1-4,2017,Kelantan,6
+Male,1-4,2017,Kelantan,8
+Male,1-4,2017,Kelantan,15
+Male,1-4,2017,Kelantan,4
+Male,5-9,2017,Kelantan,27
+Male,10-14,2017,Kelantan,57
+Male,15-19,2017,Kelantan,126
+Male,20-24,2017,Kelantan,109
+Male,25-29,2017,Kelantan,118
+Male,30-34,2017,Kelantan,156
+Male,35-39,2017,Kelantan,170
+Male,40-44,2017,Kelantan,222
+Male,45-49,2017,Kelantan,323
+Male,50-54,2017,Kelantan,371
+Male,55-59,2017,Kelantan,571
+Male,60-64,2017,Kelantan,651
+Male,65-69,2017,Kelantan,727
+Male,70-74,2017,Kelantan,845
+Male,75-79,2017,Kelantan,668
+Male,80-84,2017,Kelantan,483
+Male,85 +,2017,Kelantan,467
+Male,Under 1 year,2017,Melaka,55
+Male,1-4,2017,Melaka,3
+Male,1-4,2017,Melaka,6
+Male,1-4,2017,Melaka,1
+Male,1-4,2017,Melaka,1
+Male,5-9,2017,Melaka,6
+Male,10-14,2017,Melaka,6
+Male,15-19,2017,Melaka,47
+Male,20-24,2017,Melaka,57
+Male,25-29,2017,Melaka,59
+Male,30-34,2017,Melaka,67
+Male,35-39,2017,Melaka,64
+Male,40-44,2017,Melaka,118
+Male,45-49,2017,Melaka,157
+Male,50-54,2017,Melaka,214
+Male,55-59,2017,Melaka,293
+Male,60-64,2017,Melaka,345
+Male,65-69,2017,Melaka,369
+Male,70-74,2017,Melaka,340
+Male,75-79,2017,Melaka,363
+Male,80-84,2017,Melaka,301
+Male,85 +,2017,Melaka,220
+Male,Under 1 year,2017,Negeri Sembilan,91
+Male,1-4,2017,Negeri Sembilan,3
+Male,1-4,2017,Negeri Sembilan,7
+Male,1-4,2017,Negeri Sembilan,8
+Male,1-4,2017,Negeri Sembilan,3
+Male,5-9,2017,Negeri Sembilan,6
+Male,10-14,2017,Negeri Sembilan,16
+Male,15-19,2017,Negeri Sembilan,73
+Male,20-24,2017,Negeri Sembilan,74
+Male,25-29,2017,Negeri Sembilan,69
+Male,30-34,2017,Negeri Sembilan,87
+Male,35-39,2017,Negeri Sembilan,125
+Male,40-44,2017,Negeri Sembilan,150
+Male,45-49,2017,Negeri Sembilan,210
+Male,50-54,2017,Negeri Sembilan,271
+Male,55-59,2017,Negeri Sembilan,428
+Male,60-64,2017,Negeri Sembilan,442
+Male,65-69,2017,Negeri Sembilan,503
+Male,70-74,2017,Negeri Sembilan,444
+Male,75-79,2017,Negeri Sembilan,440
+Male,80-84,2017,Negeri Sembilan,350
+Male,85 +,2017,Negeri Sembilan,300
+Male,Under 1 year,2017,Pahang,123
+Male,1-4,2017,Pahang,12
+Male,1-4,2017,Pahang,4
+Male,1-4,2017,Pahang,7
+Male,1-4,2017,Pahang,6
+Male,5-9,2017,Pahang,20
+Male,10-14,2017,Pahang,33
+Male,15-19,2017,Pahang,90
+Male,20-24,2017,Pahang,121
+Male,25-29,2017,Pahang,106
+Male,30-34,2017,Pahang,148
+Male,35-39,2017,Pahang,175
+Male,40-44,2017,Pahang,226
+Male,45-49,2017,Pahang,266
+Male,50-54,2017,Pahang,390
+Male,55-59,2017,Pahang,468
+Male,60-64,2017,Pahang,583
+Male,65-69,2017,Pahang,728
+Male,70-74,2017,Pahang,649
+Male,75-79,2017,Pahang,594
+Male,80-84,2017,Pahang,470
+Male,85 +,2017,Pahang,279
+Male,Under 1 year,2017,Perak,134
+Male,1-4,2017,Perak,6
+Male,1-4,2017,Perak,10
+Male,1-4,2017,Perak,9
+Male,1-4,2017,Perak,4
+Male,5-9,2017,Perak,26
+Male,10-14,2017,Perak,40
+Male,15-19,2017,Perak,140
+Male,20-24,2017,Perak,146
+Male,25-29,2017,Perak,152
+Male,30-34,2017,Perak,205
+Male,35-39,2017,Perak,265
+Male,40-44,2017,Perak,324
+Male,45-49,2017,Perak,510
+Male,50-54,2017,Perak,710
+Male,55-59,2017,Perak,957
+Male,60-64,2017,Perak,1140
+Male,65-69,2017,Perak,1229
+Male,70-74,2017,Perak,1309
+Male,75-79,2017,Perak,1297
+Male,80-84,2017,Perak,991
+Male,85 +,2017,Perak,816
+Male,Under 1 year,2017,Perlis,15
+Male,1-4,2017,Perlis,0
+Male,1-4,2017,Perlis,0
+Male,1-4,2017,Perlis,1
+Male,1-4,2017,Perlis,1
+Male,5-9,2017,Perlis,3
+Male,10-14,2017,Perlis,6
+Male,15-19,2017,Perlis,21
+Male,20-24,2017,Perlis,25
+Male,25-29,2017,Perlis,16
+Male,30-34,2017,Perlis,26
+Male,35-39,2017,Perlis,21
+Male,40-44,2017,Perlis,25
+Male,45-49,2017,Perlis,44
+Male,50-54,2017,Perlis,86
+Male,55-59,2017,Perlis,91
+Male,60-64,2017,Perlis,111
+Male,65-69,2017,Perlis,123
+Male,70-74,2017,Perlis,132
+Male,75-79,2017,Perlis,152
+Male,80-84,2017,Perlis,103
+Male,85 +,2017,Perlis,98
+Male,Under 1 year,2017,Sabah,297
+Male,1-4,2017,Sabah,18
+Male,1-4,2017,Sabah,32
+Male,1-4,2017,Sabah,17
+Male,1-4,2017,Sabah,17
+Male,5-9,2017,Sabah,61
+Male,10-14,2017,Sabah,69
+Male,15-19,2017,Sabah,106
+Male,20-24,2017,Sabah,147
+Male,25-29,2017,Sabah,173
+Male,30-34,2017,Sabah,193
+Male,35-39,2017,Sabah,211
+Male,40-44,2017,Sabah,280
+Male,45-49,2017,Sabah,379
+Male,50-54,2017,Sabah,529
+Male,55-59,2017,Sabah,749
+Male,60-64,2017,Sabah,793
+Male,65-69,2017,Sabah,809
+Male,70-74,2017,Sabah,721
+Male,75-79,2017,Sabah,971
+Male,80-84,2017,Sabah,773
+Male,85 +,2017,Sabah,584
+Male,Under 1 year,2017,Sarawak,136
+Male,1-4,2017,Sarawak,6
+Male,1-4,2017,Sarawak,9
+Male,1-4,2017,Sarawak,9
+Male,1-4,2017,Sarawak,7
+Male,5-9,2017,Sarawak,29
+Male,10-14,2017,Sarawak,41
+Male,15-19,2017,Sarawak,101
+Male,20-24,2017,Sarawak,143
+Male,25-29,2017,Sarawak,154
+Male,30-34,2017,Sarawak,174
+Male,35-39,2017,Sarawak,216
+Male,40-44,2017,Sarawak,295
+Male,45-49,2017,Sarawak,398
+Male,50-54,2017,Sarawak,489
+Male,55-59,2017,Sarawak,583
+Male,60-64,2017,Sarawak,715
+Male,65-69,2017,Sarawak,760
+Male,70-74,2017,Sarawak,938
+Male,75-79,2017,Sarawak,842
+Male,80-84,2017,Sarawak,648
+Male,85 +,2017,Sarawak,871
+Male,Under 1 year,2017,Selangor,329
+Male,1-4,2017,Selangor,19
+Male,1-4,2017,Selangor,24
+Male,1-4,2017,Selangor,17
+Male,1-4,2017,Selangor,12
+Male,5-9,2017,Selangor,61
+Male,10-14,2017,Selangor,68
+Male,15-19,2017,Selangor,222
+Male,20-24,2017,Selangor,301
+Male,25-29,2017,Selangor,275
+Male,30-34,2017,Selangor,364
+Male,35-39,2017,Selangor,446
+Male,40-44,2017,Selangor,629
+Male,45-49,2017,Selangor,903
+Male,50-54,2017,Selangor,1239
+Male,55-59,2017,Selangor,1569
+Male,60-64,2017,Selangor,1783
+Male,65-69,2017,Selangor,1766
+Male,70-74,2017,Selangor,1646
+Male,75-79,2017,Selangor,1548
+Male,80-84,2017,Selangor,1238
+Male,85 +,2017,Selangor,958
+Male,Under 1 year,2017,Terengganu,100
+Male,1-4,2017,Terengganu,5
+Male,1-4,2017,Terengganu,5
+Male,1-4,2017,Terengganu,4
+Male,1-4,2017,Terengganu,7
+Male,5-9,2017,Terengganu,21
+Male,10-14,2017,Terengganu,37
+Male,15-19,2017,Terengganu,70
+Male,20-24,2017,Terengganu,80
+Male,25-29,2017,Terengganu,90
+Male,30-34,2017,Terengganu,98
+Male,35-39,2017,Terengganu,145
+Male,40-44,2017,Terengganu,187
+Male,45-49,2017,Terengganu,195
+Male,50-54,2017,Terengganu,322
+Male,55-59,2017,Terengganu,338
+Male,60-64,2017,Terengganu,415
+Male,65-69,2017,Terengganu,419
+Male,70-74,2017,Terengganu,530
+Male,75-79,2017,Terengganu,413
+Male,80-84,2017,Terengganu,311
+Male,85 +,2017,Terengganu,238
+Male,Under 1 year,2017,W.P. Kuala Lumpur,85
+Male,1-4,2017,W.P. Kuala Lumpur,5
+Male,1-4,2017,W.P. Kuala Lumpur,5
+Male,1-4,2017,W.P. Kuala Lumpur,4
+Male,1-4,2017,W.P. Kuala Lumpur,3
+Male,5-9,2017,W.P. Kuala Lumpur,15
+Male,10-14,2017,W.P. Kuala Lumpur,24
+Male,15-19,2017,W.P. Kuala Lumpur,40
+Male,20-24,2017,W.P. Kuala Lumpur,61
+Male,25-29,2017,W.P. Kuala Lumpur,90
+Male,30-34,2017,W.P. Kuala Lumpur,74
+Male,35-39,2017,W.P. Kuala Lumpur,118
+Male,40-44,2017,W.P. Kuala Lumpur,171
+Male,45-49,2017,W.P. Kuala Lumpur,222
+Male,50-54,2017,W.P. Kuala Lumpur,354
+Male,55-59,2017,W.P. Kuala Lumpur,479
+Male,60-64,2017,W.P. Kuala Lumpur,520
+Male,65-69,2017,W.P. Kuala Lumpur,604
+Male,70-74,2017,W.P. Kuala Lumpur,579
+Male,75-79,2017,W.P. Kuala Lumpur,523
+Male,80-84,2017,W.P. Kuala Lumpur,386
+Male,85 +,2017,W.P. Kuala Lumpur,362
+Male,Under 1 year,2017,W.P. Putrajaya,9
+Male,1-4,2017,W.P. Putrajaya,0
+Male,1-4,2017,W.P. Putrajaya,0
+Male,1-4,2017,W.P. Putrajaya,0
+Male,1-4,2017,W.P. Putrajaya,1
+Male,5-9,2017,W.P. Putrajaya,0
+Male,10-14,2017,W.P. Putrajaya,2
+Male,15-19,2017,W.P. Putrajaya,3
+Male,20-24,2017,W.P. Putrajaya,6
+Male,25-29,2017,W.P. Putrajaya,0
+Male,30-34,2017,W.P. Putrajaya,5
+Male,35-39,2017,W.P. Putrajaya,7
+Male,40-44,2017,W.P. Putrajaya,9
+Male,45-49,2017,W.P. Putrajaya,3
+Male,50-54,2017,W.P. Putrajaya,5
+Male,55-59,2017,W.P. Putrajaya,20
+Male,60-64,2017,W.P. Putrajaya,17
+Male,65-69,2017,W.P. Putrajaya,12
+Male,70-74,2017,W.P. Putrajaya,8
+Male,75-79,2017,W.P. Putrajaya,7
+Male,80-84,2017,W.P. Putrajaya,4
+Male,85 +,2017,W.P. Putrajaya,5

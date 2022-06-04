@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+
+    <title>Data Viz Dashboard</title>
+
+    <style>
+        .left-content{
+            width: 40%;
+            height: 100%;
+            float: left;
+        }
+
+        .left-content #map-viz{
+            width: 100%;
+            height: 400px;
+            margin: auto;
+            border-style: solid;
+            background-color: white;
+        }
+
+        .left-content #map-viz svg {
+            display: block;
+            margin: auto;
+        }
+
+        .left-content #map-viz svg g.map {
+            transform: translate(10px,-50px);
+        }
+
+        .left-content #map-viz g .map path {
+            stroke: #aaa;
+            stroke-width: 0.5px;
+        }
+
+        .left-content #map-viz .map-tooltip {
+            position: absolute;			
+        }
+           
+        .left-content #cause-viz{
+            width: 100%;
+            height: 400px;
+            margin: auto;
+            border-style: solid;
+            background-color: white;
+        }
+
+        .left-content #cause-viz svg {
+            display: block;
+            margin: auto;
+        }
+
+        .left-content #cause-viz .cause-tooltip {
+            position: absolute;			
+        }
+
+        .right-content{
+            width: 60%;
+            height: 100%;
+            float: right;
+        }
+
+        .right-content #disease-viz{
+            width: 95%;
+            height: 400px;
+            margin: auto;
+            border-style: solid;
+            background-color: white;
+        }
+
+        .right-content #disease-viz svg {
+            display: block;
+            margin: auto;
+        }
+
+        .right-content #disease-viz .disease-tooltip {
+            position: absolute;			
+        }
+
+        .right-content #male-death-viz{
+            float: left;
+            width: 46%;
+            height: 400px;
+            margin: auto;
+            border-style: solid;
+            background-color: white;
+            margin-left: 2.5%;
+        }
+
+        .right-content #male-death-viz svg {
+            display: block;
+            margin: auto;
+        }
+
+        .right-content #female-death-viz{
+            float: right;
+            width: 46%;
+            height: 400px;
+            margin: auto;
+            border-style: solid;
+            background-color: white;
+            margin-right: 2.5%;
+        }
+
+        .right-content #female-death-viz svg {
+            display: block;
+            margin: auto;
+        }
+
+        .right-content .death-tooltip {
+            position: absolute;			
+        }
+
+        body{
+            background-color: #F1F1F1;
+        }
+
+        h2{
+            text-align: center;
+            background-color: #1C4E80;
+            margin-top: 0px;
+        }
+
+        #colourScaleLegend {
+            -webkit-transform:rotate(270deg);
+            -moz-transform:rotate(270deg);
+            -o-transform:rotate(270deg);
+            -ms-transform:rotate(270deg); 
+        }
+
+    </style>
+    <script type="text/javascript" src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <h1>Burden of Cases in Malaysia</h1>
+    <p id="state-info">The visualization below shows the mortality & morbidity cases in Malaysia throughout the year 2013 to 2018. To view the data, select the year and click state on the map.</p>
+    <label>Select Year:</label>
+    <select id="dropdown-year">
+        <option value="2013">2013</option>
+        <option value="2014">2014</option>
+        <option value="2015">2015</option>
+        <option value="2016">2016</option>
+        <option value="2017">2017</option>
+        <option value="2018">2018</option>
+    </select>
+    <br>
+    <br>
+    <div class="left-content">
+        <div id="map-viz">
+            <h2 style="color: white;">Death Cases in Malaysia</h2>
+            <p style="text-align: center;">State Selected:</p>
+            <div id="colourScaleLegend"></div>
+        </div>
+        <br>
+        <div id="cause-viz">
+            <h2 style="color: white;">Causes of Hospitalization</h2>
+        </div>
+    </div>
+    <div class="right-content">
+        <div id="disease-viz">
+            <h2 style="color: white;">Top 10 Communicable Disease</h2>
+        </div>
+        <br>
+        <div id="male-death-viz">
+            <h2 style="color: white;">Number of Male Death Cases</h2>
+        </div>
+        <div id="female-death-viz">
+            <h2 style="color: white;">Number of Female Death Cases</h2>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="finalize_dashboard-js.js">
+
+    </script>
+</body>
+</html>
